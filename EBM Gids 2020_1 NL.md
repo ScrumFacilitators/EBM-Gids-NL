@@ -44,9 +44,9 @@ In order to progress toward the Strategic Goal, organizations run experiments wh
 When setting goals, organizations must define specific measures that will indicate that the goal is achieved. Goals, measures, and experiments should be made transparent in order to encourage organizational alignment.
 
 >*Consider the case of the response to an infectious disease:*
-- *The Strategic Goal is to eradicate the effects of the disease, as measured by the number of people who fall ill and suffer significant illness. Measurement is important; in this example, the goal is focused on the effects of the disease, and not on the means for achieving the desired impact. For example, the goal is not to vaccinate a certain percentage of the population against the disease; that may be an activity necessary to achieving the Strategic Goal, but it is not the Strategic Goal.*
-- *An example of an Intermediate Goal is the successful completion of a trial of a vaccine against the disease. This is still ambitious and measurable, and achieving it may require the completion of many different activities, but it is seen as a necessary step on the path to achieving the Strategic Goal.*
-- *Examples of immediate tactical goals may include activities like isolating symptoms, evaluating a therapy, sequencing the DNA of a virus or bacterium, and so forth.*
+>- *The Strategic Goal is to eradicate the effects of the disease, as measured by the number of people who fall ill and suffer significant illness. Measurement is important; in this example, the goal is focused on the effects of the disease, and not on the means for achieving the desired impact. For example, the goal is not to vaccinate a certain percentage of the population against the disease; that may be an activity necessary to achieving the Strategic Goal, but it is not the Strategic Goal.*
+>- *An example of an Intermediate Goal is the successful completion of a trial of a vaccine against the disease. This is still ambitious and measurable, and achieving it may require the completion of many different activities, but it is seen as a necessary step on the path to achieving the Strategic Goal.*
+>- *Examples of immediate tactical goals may include activities like isolating symptoms, evaluating a therapy, sequencing the DNA of a virus or bacterium, and so forth.*
 
 *The Strategic Goal* is usually focused on achieving a highly desirable but unrealized outcome for a specific group of people that results in improved happiness, safety, security, or well-being of the recipients of some product or service. In EBM, we refer to this as *Unrealized Value*, which is the satisfaction gap between a beneficiary’s desired outcome and their current experience. *Unrealized Value* is described in greater detail below, in the *Key Value Areas* section.
 
@@ -151,6 +151,8 @@ In simplified terms, a *hypothesis* is a proposed explanation for some observati
 Every feature and every requirement really represent a hypothesis about value. One of the goals of an empirical approach is to make these hypotheses explicit and to consciously design experiments that explicitly test the value of the features and requirements. The entire feature or requirement need not actually be built to determine whether it is valuable; it may be sufficient for a team to simply build enough of it to validate critical assumptions that would prove or disprove its value.
 
 Explicitly forming hypotheses, measuring results, and inspecting and adapting goals based on those results are implicit parts of an agile approach. Making this work explicit and transparent is what EBM adds to the organizational improvement process.
+
+ 4. Adapted from the IEEE 829 specification
 
 # End Note
 
