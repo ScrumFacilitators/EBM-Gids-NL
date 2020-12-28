@@ -1,15 +1,21 @@
 Scrum.org
 
 # De Evidence-Based Management Gids
+*The Evidence-Based Management Guide*
 
 ## Waarde meten om verbetering mogelijk te maken en wendbaarheid te vergroten
+*Measuring Value to Enable Improvement and Agility*
 
 September 2020
 
-*Vertaling: Sjoerd Kranendonk voor Scrum Facilitators, 2021*
+**Vertaling: Sjoerd Kranendonk voor Scrum Facilitators, 2021**
 
 # Doel van de EBM Gids
+*Purpose of the EBM Guide*
+
 Evidence-Based Management (EBM) is een empirische aanpak die organisaties helpt met continue verbeteren van: klant-uitkomsten, organisatie-bekwaamheid en bedrijfsresultaten in onzekere situaties. Het levert een raamwerk voor organisaties om hun bekwaamheid te verbeteren waarmee ze waarde leveren in een onzekere wereld, en een weg zoeken naar strategische doelen. Door gebruik te maken van doelgerichte experimenten en bewijs (metingen), stelt EBM organisaties in staat om hun prestaties systematisch te verbeteren met de tijd en hun doelen aan te scherpen met betere informatie.
+
+*Evidence-Based Management (EBM) is an empirical approach that helps organizations to continuously improve customer outcomes, organizational capabilities, and business results under conditions of uncertainty. It provides a framework for organizations to improve their ability to deliver value in an uncertain world, seeking a path toward strategic goals. Using intentional experimentation and evidence (measures), EBM enables organizations to systematically improve their performance over time and refine their goals based on better information.*
 
 Door huidige omstandigheden te meten, prestatiedoelen te stellen, kleine experimenten voor verbetering op te zetten (die snel kunnen worden uitgevoerd), het effect van het experiment te meten, en doelen en vervolgstappen te inspecteren en adapteren, helpt EBM organisaties rekening te houden met het beste beschikbare bewijs om besluiten te nemen over manieren om te verbeteren.
 
@@ -153,13 +159,15 @@ Explicitly forming hypotheses, measuring results, and inspecting and adapting go
 
  4. Adapted from the IEEE 829 specification
 
-# End Note
+# Eindnoot
 
-Evidence-Based Management is free and offered in this Guide. Although implementing only parts of EBM is possible, the result is not Evidence-Based Management.
+Evidence Based-Management is gratis en wordt aangeboden in deze Gids. Het implementeren van losse delen van EBM is mogelijk, maar het resultaat daarvan is niet Evidence Based Management.
 
-# Acknowledgements
+# Erkenningen
 
-Evidence-Based Management was collaboratively developed by Scrum.org, the Professional Scrum Trainer Community, Ken Schwaber and Christina Schwaber.
+Evidence-Based Management is gezamenlijk ontwikkeld door Scrum.org, de Professional Scrum Trainer-gemeenschap, Ken Schwaber en Christina Schwaber.
+
+Het initiatief en beheer van deze Nederlandse vertaling is van Sjoerd Kranendonk voor Scrum Facilitators.
 
 # Appendix: Example Key Value Measures
 ...
