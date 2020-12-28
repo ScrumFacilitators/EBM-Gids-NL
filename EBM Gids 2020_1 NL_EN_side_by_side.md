@@ -158,13 +158,24 @@
 | # Eindnoot | # End Note | H1 |
 |Evidence Based-Management is gratis en wordt aangeboden in deze Gids. Het implementeren van losse delen van EBM is mogelijk, maar het resultaat daarvan is niet Evidence Based Management. | Evidence-Based Management is free and offered in this Guide. Although implementing only parts of EBM is possible, the result is not Evidence-Based Management. ||
 
-# Acknowledgements
+# Erkenningen
 
 | Nederlands | English | opmerkingen |
 | --- | --- | --- |
 | # Erkenningen | # Acknowledgements | H1 |
 | Evidence-Based Management is gezamenlijk ontwikkeld door Scrum.org, de Professional Scrum Trainer-gemeenschap, Ken Schwaber en Christina Schwaber | Evidence-Based Management was collaboratively developed by Scrum.org, the Professional Scrum Trainer Community, Ken Schwaber and Christina Schwaber. ||
 | Het initiatief en beheer van deze Nederlandse vertaling is van Sjoerd Kranendonk voor Scrum Facilitators en bevat bijdragen van... || aanvullen met andere vertalers |
+
+# Translator Acknowledgement
+
+| Nederlands | English | opmerkingen |
+| --- | --- | --- |
+| # Vertalers | # Translator Acknowledgement | H1 |
+| | This guide has been translated from the original English version provided by the developers acknowledged above. Contributors to the translation include [First name] [Last name]. ||
+| | ## Contact Information | H2 |
+
+# Overzicht van wijzigingen
+Dit is de eerste vertaling, en er zijn dus nog geen wijzigingen ten op zichte van eerdere versies.
 
 # Appendix: Example Key Value Measures
 ...
