@@ -1,7 +1,6 @@
 Scrum.org
 
-
-# De Evidence Based Management Gids
+# De Evidence-Based Management Gids
 
 ## Waarde meten om verbetering mogelijk te maken en wendbaarheid te vergroten
 
@@ -20,6 +19,5 @@ Deze gids definieert EBM, haar concepten, en haar toepassing.
 
 This publication is offered for license under the Attribution Share-Alike license of Creative Commons, accessible at http://creativecommons.org/licenses/by-sa/4.0/legalcode and also described in summary form at http://creativecommons.org/licenses/by-sa/4.0/. By utilizing this EBM Guide, you acknowledge and agree that you have read and agree to be bound by the terms of the Attribution Share-Alike license of Creative Commons.
 
-# EBM Helpt Organisaties Empirisme te Gebruiken in de Zoektocht naar hun Doelen in een Complexe Wereld
-
+# EBM Helpt Organisaties in een Complexe Wereld om Empirisme te Gebruiken in de Zoektocht naar hun Doelen
 ...
