@@ -52,7 +52,6 @@ When setting goals, organizations must define specific measures that will indica
 
 # Understanding What Is Valuable
 
-
 Organizations measure many different kinds of things. Broadly speaking, measures fall into three categories:
 - **Activities.** These are things that people in the organization do, such as perform work, go to meetings, have discussions, write code, create reports, attend conferences, and so forth.
 - **Outputs.** These are things that the organization produces, such as product releases (including features), reports, defect reports, product reviews, and so on.
@@ -162,5 +161,5 @@ Evidence-Based Management is free and offered in this Guide. Although implementi
 
 Evidence-Based Management was collaboratively developed by Scrum.org, the Professional Scrum Trainer Community, Ken Schwaber and Christina Schwaber.
 
-#Appendix: Example Key Value Measures
+# Appendix: Example Key Value Measures
 ...
