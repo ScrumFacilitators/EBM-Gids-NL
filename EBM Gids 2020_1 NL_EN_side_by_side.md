@@ -171,11 +171,17 @@
 | Nederlands | English | opmerkingen |
 | --- | --- | --- |
 | # Vertalers | # Translator Acknowledgement | H1 |
-| | This guide has been translated from the original English version provided by the developers acknowledged above. Contributors to the translation include [First name] [Last name]. ||
-| | ## Contact Information | H2 |
+| Deze gids is een vertaling van de oorspronkelijke Engelse versie, die beschikbaar is gesteld door de ontwikkelaars die hierboven zijn vermeld. Aan deze vertaling hebben bijgedragen: Sjoerd Kranendonk. | This guide has been translated from the original English version provided by the developers acknowledged above. Contributors to the translation include [First name] [Last name]. | vertalers toevoegen |
+| ## Contactgegevens | ## Contact Information | H2 |
+| Vertalers: Sjoerd Kranendonk. | Translator Name(s) : | required |
+| | Translation Group Name : | optional |
+| Contact email: sjoerd@scrumfacilitators.nl | Primary Contact Email : | required |
+| Website: http://www.scrumfacilitators.nl | (optional) Website : | |
+| Linkedin: https://www.linkedin.com/company/scrumfacilitators/ | (optional) LinkedIn : | | 
+| | (optional) Twitter : (optional) Facebook :|  |
 
 # Overzicht van wijzigingen
-Dit is de eerste vertaling, en er zijn dus nog geen wijzigingen ten op zichte van eerdere versies.
+Dit is de eerste vertaling, en er zijn dus nog geen wijzigingen ten opzichte van eerdere versies.
 
 # Appendix: Example Key Value Measures
 ...
