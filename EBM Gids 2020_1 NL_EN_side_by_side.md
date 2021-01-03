@@ -2,16 +2,16 @@
 
 | Nederlands | English |opmerkingen |
 |---|---|---|
-| Scrum.org | Scrum.org| |
-|# De Evidence-Based Management Gids|The Evidence-Based Management Guide|H1|
-|## Waarde meten om verbetering en wendbaarheid mogelijk te maken|Measuring Value to Enable Improvement and Agility|H2|
-|September 2020|September 2020||
-||**Vertaling: Sjoerd Kranendonk voor Scrum Facilitators, 2021**||
+| Scrum.org | Scrum.org | |
+| # De Evidence-Based Management Gids|The Evidence-Based Management Guide | H1 - EBM niet vertalen voorlopig |
+| ## Waarde meten om verbetering en wendbaarheid mogelijk te maken | Measuring Value to Enable Improvement and Agility | H2 |
+| September 2020|September 2020 | |
+| | **Vertaling: Sjoerd Kranendonk voor Scrum Facilitators, 2021** | |
 
 # Doel van de EBM Gids
 | Nederlands | English |opmerkingen |
 | --- | --- | --- |
-| # Doel van de EBM Gids|Purpose of the EBM Guide|H1|
+| # Doel van de EBM Gids|Purpose of the EBM Guide | H1 |
 | Evidence-Based Management (EBM) is een empirische aanpak die organisaties helpt met continue verbeteren van: klant-uitkomsten, organisatie-bekwaamheid en bedrijfsresultaten in onzekere situaties. Het levert een raamwerk voor organisaties om hun bekwaamheid te verbeteren waarmee ze waarde leveren in een onzekere wereld, en een weg zoeken naar strategische doelen. Door gebruik te maken van doelgerichte experimenten en bewijs (metingen), stelt EBM organisaties in staat om hun prestaties systematisch te verbeteren met de tijd en hun doelen aan te scherpen met betere informatie. | Evidence-Based Management (EBM) is an empirical approach that helps organizations to continuously improve customer outcomes, organizational capabilities, and business results under conditions of uncertainty. It provides a framework for organizations to improve their ability to deliver value in an uncertain world, seeking a path toward strategic goals. Using intentional experimentation and evidence (measures), EBM enables organizations to systematically improve their performance over time and refine their goals based on better information. | |
 | Door huidige omstandigheden te meten, prestatiedoelen te stellen, kleine experimenten voor verbetering op te zetten (die snel kunnen worden uitgevoerd), het effect van het experiment te meten, en doelen en vervolgstappen te inspecteren en adapteren, helpt EBM organisaties rekening te houden met het beste beschikbare bewijs om besluiten te nemen over manieren om te verbeteren. | By measuring current conditions, setting performance goals, forming small experiments for improvement that can be run quickly, measuring the effect of the experiment, and inspecting and adapting goals and next steps, EBM helps organizations to take into account the best available evidence to help them make decisions on ways to improve. | |
 | Deze gids definieert EBM, haar concepten, en haar toepassing. | This Guide defines EBM, its concepts, and its application. | |
@@ -36,16 +36,16 @@
 | <sup>1</sup> Voor meer informatie over complexiteit, zie het gedeelte over Scrum Theorie in de Scrum Guide op https://www.scrumguides.org/scrum-guide.html (of download de nederlandse gids via https://www.scrumguides.org/download.html) | <sup>1</sup> For more on complexity, see the Scrum Theory section of the Scrum Guide at https://www.scrumguides.org/scrum-guide.html ||
 | <sup>2</sup> Figuur aangepast van Mike Rother’s Improvement Kata (http://www.personal.umich.edu/~mrother/The_Improvement_Kata.html) | <sup>2</sup> Figure adapted from Mike Rother’s Improvement Kata (http://www.personal.umich.edu/~mrother/The_Improvement_Kata.html) ||
 
-## Setting Goals
+## Doelen stellen
 | Nederlands | English | opmerkingen |
 | --- | --- | --- |
-|| ## Setting Goals | H2 |
-|| When setting goals, organizations must define specific measures that will indicate that the goal is achieved. Goals, measures, and experiments should be made transparent in order to encourage organizational alignment. ||
-|| > *Consider the case of the response to an infectious disease:* ||
-|| >- *The Strategic Goal is to eradicate the effects of the disease, as measured by the number of people who fall ill and suffer significant illness. Measurement is important; in this example, the goal is focused on the effects of the disease, and not on the means for achieving the desired impact. For example, the goal is not to vaccinate a certain percentage of the population against the disease; that may be an activity necessary to achieving the Strategic Goal, but it is not the Strategic Goal.* ||
-|| >- *An example of an Intermediate Goal is the successful completion of a trial of a vaccine against the disease. This is still ambitious and measurable, and achieving it may require the completion of many different activities, but it is seen as a necessary step on the path to achieving the Strategic Goal.* ||
-|| >- *Examples of immediate tactical goals may include activities like isolating symptoms, evaluating a therapy, sequencing the DNA of a virus or bacterium, and so forth.* ||
-|| *The Strategic Goal* is usually focused on achieving a highly desirable but unrealized outcome for a specific group of people that results in improved happiness, safety, security, or well-being of the recipients of some product or service. In EBM, we refer to this as *Unrealized Value*, which is the satisfaction gap between a beneficiary’s desired outcome and their current experience. *Unrealized Value* is described in greater detail below, in the *Key Value Areas* section. ||
+| ## Doelen Stellen | ## Setting Goals | H2 |
+| Bij het stellen van doelen moeten organisaties specifieke metingen bepalen die aangeven wanneer het doel is behaald. Doelen, metingen en experimenten moeten transparant worden gemaakt om organisatorisch samenhangende richting te stimuleren. | When setting goals, organizations must define specific measures that will indicate that the goal is achieved. Goals, measures, and experiments should be made transparent in order to encourage organizational alignment. | wat is de gangbare/beste vertaling voor *organisational alignment*?? ~SK |
+| > *Bijvoorbeeld reageren op een infectie-uitbraak:* | > *Consider the case of the response to an infectious disease:* ||
+| >- *Het Strategische Doel is om de effecten van ziekte uit te roeien, gemeten in het aantal mensen die besmet worden en significant ziek worden. Metingen zijn belangrijk; in dit voorbeeld is het doel gericht op de effecten van de ziekte, en niet op de manier waarop de gewenste impact wordt bereikt. Het doel is bijvoorbeeld niet om een bepaald percentage van de populatie te vaccineren; dat kan een activiteit zijn die nodig is om het Strategische Doel te behalen, maar het is niet zelf het Strategische Doel.* | >- *The Strategic Goal is to eradicate the effects of the disease, as measured by the number of people who fall ill and suffer significant illness. Measurement is important; in this example, the goal is focused on the effects of the disease, and not on the means for achieving the desired impact. For example, the goal is not to vaccinate a certain percentage of the population against the disease; that may be an activity necessary to achieving the Strategic Goal, but it is not the Strategic Goal.* ||
+| >- *Een voorbeeld van een Tussenliggend Doel is het succesvol voltooien van een vaccinproef voor deze ziekte. Dit is nog steeds ambitieus en meetbaar, en om dit te behalen moeten mogelijk meerdere activiteiten voltooid worden, maar het is een noodzakelijke stap op de weg naar het behalen van het Strategische Doel.* | >- *An example of an Intermediate Goal is the successful completion of a trial of a vaccine against the disease. This is still ambitious and measurable, and achieving it may require the completion of many different activities, but it is seen as a necessary step on the path to achieving the Strategic Goal.* ||
+| >- *Voorbeelden van directe tactische doelen zijn activiteiten zoals het isoleren van symptomen, evalueren van een behandeling, DNA sequencing van een virus of bacterie, enzovoort.* | >- *Examples of immediate tactical goals may include activities like isolating symptoms, evaluating a therapy, sequencing the DNA of a virus or bacterium, and so forth.* ||
+| *Het Strategische Doel* is meestal gericht op het behalen van een hoogst wenselijke maar nog onbehaalde uitkomst voor een specifieke groep mensen die leidt tot verbeterd geluk, veiligheid, zekerheid of welzijn van de ontvangers van een bepaald product of dienst. In EBM noemen we dit *Unrealized Value*: het verschil tussen de gewenste uitkomst en de huidige ervaringe van een begunstigde. *Unrealized Value* wordt hieronder in meer detail beschreven, in het onderdeel *Key Value Areas*. | *The Strategic Goal* is usually focused on achieving a highly desirable but unrealized outcome for a specific group of people that results in improved happiness, safety, security, or well-being of the recipients of some product or service. In EBM, we refer to this as *Unrealized Value*, which is the satisfaction gap between a beneficiary’s desired outcome and their current experience. *Unrealized Value* is described in greater detail below, in the *Key Value Areas* section. | Voorlopig KVA's (en KVM's) niet vertalen, net als EBM. |
 
 # Understanding What Is Valuable
 | Nederlands | English | opmerkingen |
