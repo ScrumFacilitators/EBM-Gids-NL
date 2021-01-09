@@ -73,7 +73,7 @@
 | Nederlands | English | opmerkingen |
 | — | — | — |
 || ### Current Value (CV) | H3 |
-|| #### The value that the product delivers today | H4 of BOLD ** |
+|| #### The value that the product delivers today | H4 of BOLD  |
 || The purpose of looking at CV is to understand the value that an organization delivers to customers and stakeholders at the present time; it considers only what exists right now, not the value that might exist in the future. Questions that organizations need to continually re-evaluate for current value are: ||
 || 1. How happy are users and customers today? Is their happiness improving or declining? ||
 || 2. How happy are your employees today? Is their happiness improving or declining? ||
@@ -88,7 +88,7 @@
 | Nederlands | English | opmerkingen |
 | — | — | — |
 || ### Unrealized Value (UV) | H3 |
-|| #### The potential future value that could be realized if the organization met the needs of all potential customers or users | H4 of BOLD ** |
+|| #### The potential future value that could be realized if the organization met the needs of all potential customers or users | H4 of BOLD |
 || Looking at Unrealized Value helps an organization to maximize the value that it realizes from a product or service over time. When customers, users, or clients experience a gap between their current experience and the experience that they would like to have, the difference between the two represents an opportunity; this opportunity is measured by *Unrealized Value*. ||
 || Questions that organizations need to continually re-evaluate for UV are: ||
 || 1. Can any additional value be created by our organization in this market or other markets? ||
@@ -104,7 +104,7 @@
 | Nederlands | English | opmerkingen |
 | — | — | — |
 || ### Time-to-Market (T2M) | H3 |
-|| #### The organization’s ability to quickly deliver new capabilities, services, or products | 4 of BOLD ** |
+|| #### The organization’s ability to quickly deliver new capabilities, services, or products | 4 of BOLD |
 || The *reason for looking* at T2M is to minimize the amount of time it takes for the organization to deliver value. Without actively managing T2M, the ability to sustainably deliver value in the future is unknown. Questions that organizations need to continually re-evaluate for T2M are: ||
 || 1. How fast can the organization learn from new experiments and information? ||
 || 2. How fast can you adapt based on the information? ||
@@ -118,7 +118,7 @@
 | Nederlands | English | opmerkingen |
 | — | — | — |
 || ### Ability to Innovate (A2I) | H3 |
-|| #### The effectiveness of an organization to deliver new capabilities that might better meet customer needs | 4 of BOLD ** |
+|| #### The effectiveness of an organization to deliver new capabilities that might better meet customer needs | 4 of BOLD |
 || The *goal* of looking at the A2I is to maximize the organization’s ability to deliver new capabilities and innovative solutions. Organizations should continually re-evaluate their A2I by asking: ||
 || 1. What prevents the organization from delivering new value? ||
 || 2. What prevents customers or users from benefiting from that innovation? ||
