@@ -1,17 +1,19 @@
 # De Evidence-Based Management Gids
 
-| Nederlands | English |opmerkingen |
-|—|—|—|
+| Nederlands | English | opmerkingen |
+|---|---|---|
 | Scrum.org | Scrum.org | |
 | # De Evidence-Based Management Gids|The Evidence-Based Management Guide | H1 - EBM niet vertalen voorlopig |
 | ## Waarde meten om verbetering en wendbaarheid mogelijk te maken | Measuring Value to Enable Improvement and Agility | H2 |
-| September 2020|September 2020 | |
+| September 2020 | September 2020 | |
 | | **Vertaling: Sjoerd Kranendonk voor Scrum Facilitators, 2021** | |
 
+
 # Doel van de EBM Gids
+
 | Nederlands | English |opmerkingen |
-| — | — | — |
-| # Doel van de EBM Gids|Purpose of the EBM Guide | H1 |
+|---|---|---|
+| # Doel van de EBM Gids | Purpose of the EBM Guide | H1 |
 | Evidence-Based Management (EBM) is een empirische aanpak die organisaties helpt met continue verbeteren van: klant-uitkomsten, organisatie-bekwaamheid en bedrijfsresultaten in onzekere situaties. Het levert een raamwerk voor organisaties om hun bekwaamheid te verbeteren waarmee ze waarde leveren in een onzekere wereld, en een weg zoeken naar strategische doelen. Door gebruik te maken van doelgerichte experimenten en bewijs (metingen), stelt EBM organisaties in staat om hun prestaties systematisch te verbeteren met de tijd en hun doelen aan te scherpen met betere informatie. | Evidence-Based Management (EBM) is an empirical approach that helps organizations to continuously improve customer outcomes, organizational capabilities, and business results under conditions of uncertainty. It provides a framework for organizations to improve their ability to deliver value in an uncertain world, seeking a path toward strategic goals. Using intentional experimentation and evidence (measures), EBM enables organizations to systematically improve their performance over time and refine their goals based on better information. | |
 | Door huidige omstandigheden te meten, prestatiedoelen te stellen, kleine experimenten voor verbetering op te zetten (die snel kunnen worden uitgevoerd), het effect van het experiment te meten, en doelen en vervolgstappen te inspecteren en adapteren, helpt EBM organisaties rekening te houden met het beste beschikbare bewijs om besluiten te nemen over manieren om te verbeteren. | By measuring current conditions, setting performance goals, forming small experiments for improvement that can be run quickly, measuring the effect of the experiment, and inspecting and adapting goals and next steps, EBM helps organizations to take into account the best available evidence to help them make decisions on ways to improve. | |
 | Deze gids definieert EBM, haar concepten, en haar toepassing. | This Guide defines EBM, its concepts, and its application. | |
@@ -21,7 +23,7 @@
 # EBM Helpt Organisaties in een Complexe Wereld om Empirisme te Gebruiken in de Zoektocht naar hun Doelen
 
 | Nederlands | English | opmerkingen |
-| — | — | — |
+|---|---|---||
 | # EBM Helpt Organisaties in een Complexe Wereld om Empirisme te Gebruiken in de Zoektocht naar hun Doelen | EBM Helps Organizations Seek toward Their Goals in a Complex World Using Empiricism ||
 | Complexe problemen hebben geen eenvoudige oplossingen, maar dwingen organisaties te zoeken naar hun doelen in opeenvolgende kleine stappen, waarbij de resultaten van elke stap geïnspecteerd worden, en de vervolgacties op basis van feedback worden aangepast (adaptatie) (zie Figuur 1).<sup>1</sup> | Complex problems defy easy solutions, but instead require organizations seek toward their goals in a series of small steps, inspecting the results of each step, and adapting their next actions based on feedback (see Figure 1).<sup>1</sup> ||
 | Dit model bestaat uit een aantal essentiële elementen: | This model has several key elements: ||
@@ -31,14 +33,14 @@
 | - Een *Begintoestand*, dit is waar de organisatie zich bevindt, relatief aan het *Strategische Doel*, aan het begin van haar reis. | - A *Starting State*, which is where the organization is relative to the Strategic Goal when it starts its journey. ||
 | - Een *Huidige Toestand*, dit is waar de organisatie zich bevindt, relatief aan het *Strategische Doel*, op dit moment. | - A *Current State*, which is where the organization is relative to the Strategic Goal at the present time. ||
 | Om voortgang te maken naar het *Strategische Doel* voeren organisaties experimenten uit waarin hypotheses gevormd worden, die bedoeld zijn om de organisatie richting hun huidige *Tussenliggende Doel* te bewegen. Terwijl zij deze experimenten uitvoeren en resultaten verzamelen, gebruiken ze het verkregen bewijs om hun doelen te evalueren en vervolgstappen te bepalen waarmee voortgang gemaakt kan worden naar deze doelen. | In order to progress toward the Strategic Goal, organizations run experiments which involve forming hypotheses that are intended to advance the organization toward their current Intermediate Goal. As they run these experiments and gather results, they use the evidence they obtain to evaluate their goals and determine their next steps to advance toward these goals. ||
-| [Figuur 1: Behalen van strategische doelen vereist experimenteren, inspecteren, en aanpassen <sup>2</sup>](https://raw.githubusercontent.com/ScrumFacilitators/EBM-Gids-NL/main/resources/Scrumorg-EBMframework-exploop_NL.svg) | ![Figure 1: Reaching strategic goals requires experimenting, inspecting, and adapting <sup>2</sup>](https://raw.githubusercontent.com/ScrumFacilitators/EBM-Gids-NL/main/resources/Figure%201%20-%20Reaching%20Strategic%20Goals%20Requires_.png) ||
+| [Figuur 1: Behalen van strategische doelen vereist experimenteren, inspecteren, en aanpassen <sup>2</sup>](https://raw.githubusercontent.com/ScrumFacilitators/EBM-Gids-NL/main/resources/Scrumorg-EBMframework-exploop_NL.png) | ![Figure 1: Reaching strategic goals requires experimenting, inspecting, and adapting <sup>2</sup>](https://raw.githubusercontent.com/ScrumFacilitators/EBM-Gids-NL/main/resources/Figure%201%20-%20Reaching%20Strategic%20Goals%20Requires_.png) ||
 | **Figuur 1: Behalen van strategische doelen vereist experimenteren, inspecteren, en aanpassen <sup>2</sup> ** | **Figure 1: Reaching strategic goals requires experimenting, inspecting, and adapting <sup>2</sup>** ||
 | <sup>1</sup> Voor meer informatie over complexiteit, zie het gedeelte over Scrum Theorie in de Scrum Guide op https://www.scrumguides.org/scrum-guide.html (of download de nederlandse gids via https://www.scrumguides.org/download.html) | <sup>1</sup> For more on complexity, see the Scrum Theory section of the Scrum Guide at https://www.scrumguides.org/scrum-guide.html ||
 | <sup>2</sup> Figuur aangepast van Mike Rother’s Improvement Kata (http://www.personal.umich.edu/~mrother/The_Improvement_Kata.html) | <sup>2</sup> Figure adapted from Mike Rother’s Improvement Kata (http://www.personal.umich.edu/~mrother/The_Improvement_Kata.html) ||
 
 ## Doelen stellen
 | Nederlands | English | opmerkingen |
-| — | — | — |
+|---|---|---|
 | ## Doelen Stellen | ## Setting Goals | H2 |
 | Bij het stellen van doelen moeten organisaties specifieke metingen bepalen die aangeven wanneer het doel is behaald. Doelen, metingen en experimenten moeten transparant worden gemaakt om organisatorisch samenhangende richting te stimuleren. | When setting goals, organizations must define specific measures that will indicate that the goal is achieved. Goals, measures, and experiments should be made transparent in order to encourage organizational alignment. | wat is de gangbare/beste vertaling voor *organisational alignment*?? ~SK |
 | > *Bijvoorbeeld reageren op een infectie-uitbraak:* | > *Consider the case of the response to an infectious disease:* ||
@@ -49,7 +51,7 @@
 
 # Understanding What Is Valuable
 | Nederlands | English | opmerkingen |
-| — | — | — |
+|---|---|---|
 || # Understanding What Is Valuable | H1 |
 || Organizations measure many different kinds of things. Broadly speaking, measures fall into three categories: ||
 || - **Activities.** These are things that people in the organization do, such as perform work, go to meetings, have discussions, write code, create reports, attend conferences, and so forth. ||
@@ -59,7 +61,7 @@
 
 ## EBM Focuses on Four Key Value Areas
 | Nederlands | English | opmerkingen |
-| — | — | — |
+|---|---|---|
 || ## EBM Focuses on Four Key Value Areas | H2 |
 || In addition to using hypotheses and experiments to move toward goals, EBM provides a set of perspectives on value and the organization’s ability to deliver value. These perspectives are called *Key Value Areas (KVAs)*. These areas examine the goals of the organization (Unrealized Value), the current state of the organization relative to those goals (Current Value), the responsiveness of the organization in delivering value (Time-to-Market), and the effectiveness of the organization in delivering value (Ability-to-Innovate). Focusing on these four dimensions enables organizations to better understand where they are and where they need to go (see Figure 2). | |
 || ![Figure 2: EBM focuses on four Key Value Areas (KVAs).](https://github.com/ScrumFacilitators/EBM-Gids-NL/blob/main/resources/Figure%202%20-%20EBM%20focuses%20on%20four%20Key%20Value%20Areas.png?raw=true) ||
@@ -71,7 +73,7 @@
 #### The value that the product delivers today
 
 | Nederlands | English | opmerkingen |
-| — | — | — |
+|---|---|---|
 || ### Current Value (CV) | H3 |
 || #### The value that the product delivers today | H4 of BOLD  |
 || The purpose of looking at CV is to understand the value that an organization delivers to customers and stakeholders at the present time; it considers only what exists right now, not the value that might exist in the future. Questions that organizations need to continually re-evaluate for current value are: ||
@@ -86,7 +88,7 @@
 #### The potential future value that could be realized if the organization met the needs of all potential customers or users
 
 | Nederlands | English | opmerkingen |
-| — | — | — |
+|---|---|---|
 || ### Unrealized Value (UV) | H3 |
 || #### The potential future value that could be realized if the organization met the needs of all potential customers or users | H4 of BOLD |
 || Looking at Unrealized Value helps an organization to maximize the value that it realizes from a product or service over time. When customers, users, or clients experience a gap between their current experience and the experience that they would like to have, the difference between the two represents an opportunity; this opportunity is measured by *Unrealized Value*. ||
@@ -102,7 +104,7 @@
 #### The organization’s ability to quickly deliver new capabilities, services, or products
 
 | Nederlands | English | opmerkingen |
-| — | — | — |
+|---|---|---|
 || ### Time-to-Market (T2M) | H3 |
 || #### The organization’s ability to quickly deliver new capabilities, services, or products | 4 of BOLD |
 || The *reason for looking* at T2M is to minimize the amount of time it takes for the organization to deliver value. Without actively managing T2M, the ability to sustainably deliver value in the future is unknown. Questions that organizations need to continually re-evaluate for T2M are: ||
@@ -116,7 +118,7 @@
 #### The effectiveness of an organization to deliver new capabilities that might better meet customer needs
 
 | Nederlands | English | opmerkingen |
-| — | — | — |
+|---|---|---|
 || ### Ability to Innovate (A2I) | H3 |
 || #### The effectiveness of an organization to deliver new capabilities that might better meet customer needs | 4 of BOLD |
 || The *goal* of looking at the A2I is to maximize the organization’s ability to deliver new capabilities and innovative solutions. Organizations should continually re-evaluate their A2I by asking: ||
@@ -129,7 +131,7 @@
 ## Progress toward Goals in A Series of Small Steps
 
 | Nederlands | English | opmerkingen |
-| — | — | — |
+|---|---|---|
 || ## Progress toward Goals in A Series of Small Steps | H2 |
 || The first step in the journey toward a Strategic Goal is understanding your Current State. If your focus is to achieve a Strategic Goal related to Unrealized Value (UV), as is typically the case, then measuring the Current Value (CV) your product or service delivers is where you should start (of course, if your product or service is new then its CV will be zero). To understand where you need to improve, you may also need to understand your effectiveness (A2I), and your responsiveness (T2M). ||
 || The Experiment Loop (shown in Figure 1) helps organizations move from their Current State toward their Next Target Goal, and ultimately their Strategic Goal, by taking small, measured steps, called experiments, using explicit hypotheses.[3] This loop consists of: ||
@@ -142,7 +144,7 @@
 ## Hypotheses, Experiments, Features, and Requirements
 
 | Nederlands | English | opmerkingen |
-| — | — | — |
+|---|---|---|
 || ## Hypotheses, Experiments, Features, and Requirements | H2 |
 || *Features* are “distinguishing characteristics of a product”[4], while a *requirement* is, practically speaking, something that someone thinks would be desirable in a product. A *feature description* is one kind of requirement. ||
 || Organizations can spend a lot of money implementing features and other requirements in products, only to find that customers don’t share the company’s opinion on their value; beliefs in what is valuable are merely assumptions until they are validated by customers. This is where hypotheses and experiments are useful. ||
@@ -154,14 +156,14 @@
 # Eindnoot
 
 | Nederlands | English | opmerkingen |
-| — | — | — |
+|---|---|---|
 | # Eindnoot | # End Note | H1 |
 |Evidence Based-Management is gratis en wordt aangeboden in deze Gids. Het implementeren van losse delen van EBM is mogelijk, maar het resultaat daarvan is niet Evidence Based Management. | Evidence-Based Management is free and offered in this Guide. Although implementing only parts of EBM is possible, the result is not Evidence-Based Management. ||
 
 # Erkenningen
 
 | Nederlands | English | opmerkingen |
-| — | — | — |
+|---|---|---|
 | # Erkenningen | # Acknowledgements | H1 |
 | Evidence-Based Management is gezamenlijk ontwikkeld door Scrum.org, de Professional Scrum Trainer-gemeenschap, Ken Schwaber en Christina Schwaber | Evidence-Based Management was collaboratively developed by Scrum.org, the Professional Scrum Trainer Community, Ken Schwaber and Christina Schwaber. ||
 | Het initiatief en beheer van deze Nederlandse vertaling is van Sjoerd Kranendonk voor Scrum Facilitators en bevat bijdragen van... || aanvullen met andere vertalers |
@@ -169,7 +171,7 @@
 ## Vertaling
 
 | Nederlands | English | opmerkingen |
-| — | — | — |
+|---|---|---|
 | ## Vertaling | ## Translator Acknowledgement | H2 |
 | Deze gids is een vertaling van de oorspronkelijke Engelse versie, die beschikbaar is gesteld door de ontwikkelaars die hierboven zijn vermeld. Aan deze vertaling hebben bijgedragen: Sjoerd Kranendonk. | This guide has been translated from the original English version provided by the developers acknowledged above. Contributors to the translation include [First name] [Last name]. | vertalers toevoegen |
 | ### Contactgegevens | ### Contact Information | H3 |
@@ -184,4 +186,7 @@
 Dit is de eerste vertaling, en er zijn dus nog geen wijzigingen ten opzichte van eerdere versies.
 
 # Appendix: Example Key Value Measures
-...
+
+| Nederlands | English | opmerkingen |
+|---|---|---|
+| | | |
