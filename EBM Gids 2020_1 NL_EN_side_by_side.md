@@ -70,19 +70,19 @@
 | Voorbeelden van Key Value Measures (KVMs) voor elke KVA worden beschreven in de Appendix.| Example Key Value Measures (KVMs) for each KVA are described in the Appendix. ||
 
 ### Current Value (CV)
-#### The value that the product delivers today
+**De waarde die het product op dit moment levert**
 
 | Nederlands | English | opmerkingen |
 |---|---|---|
-|| ### Current Value (CV) | H3 |
-|| #### The value that the product delivers today | H4 of BOLD  |
-|| The purpose of looking at CV is to understand the value that an organization delivers to customers and stakeholders at the present time; it considers only what exists right now, not the value that might exist in the future. Questions that organizations need to continually re-evaluate for current value are: ||
-|| 1. How happy are users and customers today? Is their happiness improving or declining? ||
-|| 2. How happy are your employees today? Is their happiness improving or declining? ||
-|| 3. How happy are your investors and other stakeholders today? Is their happiness improving or declining? ||
-|| Considering CV helps an organization understand the value that their customers or users experience *today*. ||
-|| > **Example:** *While profit, one way to measure investor happiness, will tell you the economic impact of the value that you deliver, knowing whether customers are happy with their purchase will tell you more about where you may need to improve to keep those customers. If your customers have few alternatives to your product, you may have high profit even though customer satisfaction is low. Considering CV from several perspectives will give you a better understanding of your challenges and opportunities.* ||
-|| > *Customer happiness and investor happiness also do not tell the whole story about your ability to deliver value. Considering employee attitudes recognizes that employees are ultimately the producers of value. Engaged employees that know how to maintain, sustain and enhance the product are one of the most significant assets of an organization, and happy employees are more engaged and productive.* ||
+| ### Current Value (CV) | ### Current Value (CV) | H3 |
+| **Huidige Waarde: De waarde die het product op dit moment levert** | #### The value that the product delivers today | H4 of BOLD  |
+| Het doel van CV is om de waarde te begrijpen die een organisatie op dit moment levert aan klanten en belanghebbenden; alleen wat nu al bestaat wordt meegewogen, niet de waarde die mogelijk in de toekomst zal bestaan. Vragen die organisaties voortdurend herevalueren voor de huidige waarde zijn: | The purpose of looking at CV is to understand the value that an organization delivers to customers and stakeholders at the present time; it considers only what exists right now, not the value that might exist in the future. Questions that organizations need to continually re-evaluate for current value are: ||
+| 1. Hoe tevreden zijn gebruikers en klanten op dit moment? Neemt hun tevredenheid toe, of juist af? | 1. How happy are users and customers today? Is their happiness improving or declining? ||
+| 2. Hoe tevreden zijn onze medewerkers op dit moment? Neemt hun tevredenheid toe, of juist af? | 2. How happy are your employees today? Is their happiness improving or declining? ||
+| 3. Hoe tevreden zijn de investeerders en andere belanghebbenden op dit moment? Neemt hun tevredenheid toe, of juist af? | 3. How happy are your investors and other stakeholders today? Is their happiness improving or declining? ||
+| Rekening houden met CV helpt een organisatie om de waarde te begrijpen die hun klanten of gebruikers *op dit moment* ervaren. | Considering CV helps an organization understand the value that their customers or users experience *today*. ||
+| > **Voorbeeld:** *Terwijl winst, een manier om tevredenheid van investeerders te meten, je de economische impact geeft van de waarde die je wilt leveren, zal weten hoe tevreden klanten zijn met hun aankoop je meer inzicht geven over wat je kunt verbeteren om deze klanten te behouden. Wanneer je klanten weinig alternatieven hebben voor jouw product, kun je hoge winst behalen, zelfs met een lage klanttevredenheid. Het wegen van CV vanuit verschillende invalshoeken zal je een beter begrip geven van je uitdagingen en kansen.| > **Example:** *While profit, one way to measure investor happiness, will tell you the economic impact of the value that you deliver, knowing whether customers are happy with their purchase will tell you more about where you may need to improve to keep those customers. If your customers have few alternatives to your product, you may have high profit even though customer satisfaction is low. Considering CV from several perspectives will give you a better understanding of your challenges and opportunities.* | |
+| > *klanttevredenheid en investeerderstevredenheid vertellen ook niet het hele verhaal over je geschiktheid om waarde te leveren. Door rekening houden met de houding en gemoedstoestand van medewerkers erkennen we dat medewerkers uteindelijk degenen zijn die waarde leveren. Betrokken medewerkers die weten hoe ze het product kunnen onderhouden, continueren en verbeteren zijn een van de meest significante middelen van een organisatie, en tevreden medewerkers tonen hogere betrokkenheid en productiviteit. | > *Customer happiness and investor happiness also do not tell the whole story about your ability to deliver value. Considering employee attitudes recognizes that employees are ultimately the producers of value. Engaged employees that know how to maintain, sustain and enhance the product are one of the most significant assets of an organization, and happy employees are more engaged and productive.* ||
 
 ### Unrealized Value (UV)
 #### The potential future value that could be realized if the organization met the needs of all potential customers or users
