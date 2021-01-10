@@ -15,7 +15,10 @@
    style="enable-background:new 0 0 3821.4 2031;"
    xml:space="preserve"
    sodipodi:docname="Scrumorg-EBM-KVAdiagram_NL.svg"
-   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"><metadata
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   inkscape:export-filename="/Users/sjoerdkranendonk/github/EBM-Gids-NL/resources/Scrumorg-EBM-KVAdiagram_NL.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"><metadata
    id="metadata341"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
@@ -28,17 +31,17 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1457"
-   inkscape:window-height="933"
+   inkscape:window-width="1440"
+   inkscape:window-height="847"
    id="namedview337"
    showgrid="false"
    inkscape:zoom="0.28706757"
-   inkscape:cx="2185.5748"
-   inkscape:cy="1015.5"
-   inkscape:window-x="1677"
-   inkscape:window-y="60"
+   inkscape:cx="1563.77"
+   inkscape:cy="1050.335"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
    inkscape:window-maximized="0"
-   inkscape:current-layer="Editable_Text"
+   inkscape:current-layer="Layer_1"
    inkscape:document-rotation="0" />
 <style
    type="text/css"
@@ -63,7 +66,13 @@
 	.st17{font-family:'AvenirLTStd-HeavyOblique';}
 	.st18{font-size:61.9395px;}
 </style>
-<g
+<rect
+   style="fill:#ffffff"
+   id="rect1232"
+   width="3814.4329"
+   height="2020.4303"
+   x="3.4835005"
+   y="6" /><g
    id="DO_NOT_EDIT">
 	<g
    id="g244">
@@ -559,7 +568,8 @@
    id="rect270" />
 </g>
 <g
-   id="Editable_Text">
+   id="Editable_Text"
+   style="display:inline">
 	<text
    class="st11 st12 st13"
    id="text273"
@@ -574,7 +584,7 @@
    x="3114.5"
    y="561"
    class="st10"
-   width="670.2"
+   width="670.20001"
    height="207.2"
    id="rect277" />
 	<text
@@ -612,8 +622,8 @@
    x="3114.5"
    y="1301.7"
    class="st10"
-   width="670.2"
-   height="129.4"
+   width="670.20001"
+   height="129.39999"
    id="rect285" />
 	<text
    transform="matrix(0.9862,0,0,1,3114.5039,1354.0293)"
@@ -624,10 +634,10 @@
    class="st14 st15"
    id="text289">geleverd worden?</text>
 	<rect
-   x="34.9"
+   x="34.900002"
    y="561"
    class="st10"
-   width="670.2"
+   width="670.20001"
    height="207.2"
    id="rect291" />
 	<text
@@ -652,10 +662,10 @@
    y="731.52869"
    style="stroke-width:0.993076">worden behaald?</text>
 	<rect
-   x="34.9"
+   x="34.900002"
    y="1262.8"
    class="st10"
-   width="670.2"
+   width="670.20001"
    height="207.2"
    id="rect299" />
 	<text
