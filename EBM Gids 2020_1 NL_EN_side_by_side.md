@@ -185,8 +185,6 @@
 # Overzicht van wijzigingen
 Dit is de eerste vertaling, en er zijn dus nog geen wijzigingen ten opzichte van eerdere versies.
 
-# Appendix: Example Key Value Measures
+# Appendix
 
-| Nederlands | English | opmerkingen |
-| - | - | - |
-| | | |
+--- See separate file for appendix/KVMs ---
