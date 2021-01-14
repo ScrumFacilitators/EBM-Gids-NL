@@ -101,18 +101,18 @@
 | >*Andersom, een product met erg hoge CV, een groot marktaandeel, geen nabije competitie en erg tevreden klanten, rechtvaardigt waarschijnlijk geen grote investering; dit is de klassieke geldkoe die erg winstgevend is, maar aan het eind van haar (product-)investeringscyclus zit met lage UV. * | >*Conversely, a product with very high CV, large market share, no near competitors, and very satisfied customers may not warrant much new investment; this is the classic cash cow product that is very profitable but nearing the end of its product investment cycle with low UV.* ||
 
 ### Time-to-Market (T2M)
-#### The organization’s ability to quickly deliver new capabilities, services, or products
+**Het vermogen van de organisatie om snel nieuwe mogelijkheden, diensten of producten te leveren**
 
 | Nederlands | English | opmerkingen |
 | - | - | - |
-|| ### Time-to-Market (T2M) | H3 |
-|| #### The organization’s ability to quickly deliver new capabilities, services, or products | 4 of BOLD |
-|| The *reason for looking* at T2M is to minimize the amount of time it takes for the organization to deliver value. Without actively managing T2M, the ability to sustainably deliver value in the future is unknown. Questions that organizations need to continually re-evaluate for T2M are: ||
-|| 1. How fast can the organization learn from new experiments and information? ||
-|| 2. How fast can you adapt based on the information? ||
-|| 3. How fast can you test new ideas with customers? ||
-|| Improving T2M helps improve the frequency at which an organization can potentially change CV. ||
-|| >**Example:** *Reducing the number of features in a product release can dramatically improve T2M; the smallest release possible is one that delivers at least some incremental improvement in value to some subset of the customers/users of the product. Many organizations also focus on removing non value-added activities from the product development and delivery process to improve their T2M.* ||
+| ### Time-to-Market (T2M) | ### Time-to-Market (T2M) | H3 |
+| **Het vermogen van de organisatie om snel nieuwe mogelijkheden, diensten of producten te leveren** | #### The organization’s ability to quickly deliver new capabilities, services, or products | 4 of BOLD |
+| De reden om naar T2M te kijken is het minimaliseren van de tijd die het de organisatie kost om waarde te leveren. Wanneer er niet actief bijgestuurd wordt op T2M, is het vermogen om in de toekomst op duurzame wijze waarde te blijven leveren onbekend. Vragen die organisaties voortdurend heroverwegen voor T2M zijn: | The *reason for looking* at T2M is to minimize the amount of time it takes for the organization to deliver value. Without actively managing T2M, the ability to sustainably deliver value in the future is unknown. Questions that organizations need to continually re-evaluate for T2M are: ||
+| 1. Hoe snel kan de organisatie leren van nieuwe experimenten en informatie? | 1. How fast can the organization learn from new experiments and information? ||
+| 2. Hoe snel kun je aanpassen op basis van de informatie? | 2. How fast can you adapt based on the information? ||
+| 3. Hoe snel kan je nieuwe ideeën uitproberen met klanten? | 3. How fast can you test new ideas with customers? ||
+| Wanneer T2M verbetert, verbeterd ook de frequentie waarmee een organisatie haar CV kan mogelijk kan aanpassen. | Improving T2M helps improve the frequency at which an organization can potentially change CV. ||
+| >**Voorbeeld:** *Het verminderen van de functies in een productversie kan de T2M drastisch verbeteren; de kleinst mogelijke release is levert ten minste een incrementele waardeverbetering aan een specifiek deel van de klanten/gebruikers van het product. Veel organisaties richten zich ook op het weghalen van activiteiten die geen waarde toevoegen uit hun proces voor productontwikkeling en productlevering om hun T2M te verbeteren.* | >**Example:** *Reducing the number of features in a product release can dramatically improve T2M; the smallest release possible is one that delivers at least some incremental improvement in value to some subset of the customers/users of the product. Many organizations also focus on removing non value-added activities from the product development and delivery process to improve their T2M.* | Product Release > Productrelease, productuitgave, ?? |
 
 ### Ability to Innovate (A2I)
 #### The effectiveness of an organization to deliver new capabilities that might better meet customer needs
@@ -187,4 +187,4 @@ Dit is de eerste vertaling, en er zijn dus nog geen wijzigingen ten opzichte van
 
 # Appendix
 
---- See separate file for appendix/KVMs ---
+— See separate file for appendix/KVMs —
