@@ -17,3 +17,12 @@
 | Een indicate die beschrijft hoe gelukkig de klant wordt van het product, en de interactie ermee. | Some form of sentiment analysis to help gauge customer engagement and happiness with the product. ||
 | Product gebruik| Customer Usage Index ||
 | De frequentie en/of intensie waarmee gebruikers interacteren met het product. Dit is een proxy voor de bruikbaarheid van het product en of het daadwerkelijk het probleem van de klant oplost. | Measurement of usage, by feature, to help infer the degree to which customers find the product useful and whether actual usage meets expectations on how long users should be taking with a feature.||
+||||
+|Unrealized Value (UV)| Unrealized Value (UV)||
+|KVN Meetwaarde |Measuring:||
+|Markt marktaandeel|Market Share||
+|is het aandeel dat een aanbieder van een goed of dienst heeft in de totale omzet op de betreffende markt in een bepaalde periode. Tevens een indicatie van de potentie van het product, gegeven het deel van de markt dat het nog niet beheerst. |The relative percentage of the market not controlled by the product; the potential market share that the product might achieve if it better met customer needs.||
+|De kloof in de klant- of gebruikerstevredenheid|Customer or User Satisfaction Gap||
+|De kloof in de klant- of gebruikerstevredenheid wordt uitgedrukt in het verschil tussen de ervaring die de klant wenst en datgegene wat hij/zij ondervindt.|The difference between a customer or user’s desired experience and their current experience.||
+|Gewensts klantervaring of tevredenheid|Desired Customer Experience or satisfaction||
+|De absolute variant van de kloof: een indicator van de gewenste klantervaring.|A measure that indicates the experience that the customer would like to have||
