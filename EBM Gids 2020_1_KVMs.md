@@ -42,13 +42,13 @@
 |De periode tussen het moment dat een nieuw idee of hypothese is geformuleerd en het moment dat het in de handen van de gebruiker beland. Deze metriek is een proxy voor de klant tevredenheid.|The amount of time from when an idea is proposed, or a hypothesis is formed until a customer can benefit from that idea. This measure may vary based on customer and product. It is a contributing factor for customer satisfaction.
 |Aanlooptijd voor code wijzigingen|Lead Time for Changes
 |De periode tussen het opslaan van de code in het versie management systeem het succesvol draaiend hebben op de productie omgeving. Voor meer informatie zie het DORA 2019 rapport (engels.)|The amount of time to go from code-committed to code successfully running in production. For more information, see the DORA 2019 report.
-||Deployment Frequency
-||The number of times that the organization deployed (released) a new version of the product to customers/users. For more information, see the DORA 2019 report.
-||Time to Restore Service
-||The amount of time between the start of a service outage and the restoration of full availability of the service. For more information, see the DORA 2019 report.
-||Time-to-Learn
-||The total time needed to sketch an idea or improvement, build it, deliver it to users, and learn from their usage.
-||Time to remove Impediment
-||The average amount of time from when an impediment is raised until when it is resolved. It is a contributing factor to lead time and employee satisfaction.
-||Time to Pivot
-||A measure of true business agility that presents the elapsed time between when an organization receives feedback or new information and when it responds to that feedback; for example, the time between when it finds out that a competitor has delivered a new market-winning feature to when the organization responds with matching or exceeding new capabilities that measurably improve customer experience.
+|Deployment frequentie|Deployment Frequency
+|Het aantal keer per periode dat een organisatie een nieuwe versie van het product vrijgeeft. Zie ook het DORA 2019 rapport (engels.)|The number of times that the organization deployed (released) a new version of the product to customers/users. For more information, see the DORA 2019 report.
+|Hersteltijd|Time to Restore Service
+|De periode tussen het moment dat een service een storing ondergaat en het moment dat het hersteld is.  Zie ook het DORA 2019 rapport (engels.)|The amount of time between the start of a service outage and the restoration of full availability of the service. For more information, see the DORA 2019 report.
+|Leerperiode|Time-to-Learn
+|De tijd benodigd om een idee uit te werken, schetsen, bouwen, aan een klant te leveren en te kunnen leren van hun interactie ermee.|The total time needed to sketch an idea or improvement, build it, deliver it to users, and learn from their usage.
+|Belemneringsperiode|Time to remove Impediment
+|De gemiddelde tijd tussen het melden van een belemmering en het oplossen ervan. Dit is een proxy voor medewerker tevredenheid en aanlooptijd.|The average amount of time from when an impediment is raised until when it is resolved. It is a contributing factor to lead time and employee satisfaction.
+|Omschakeltijd|Time to Pivot
+|De omschakeltijd is een proxy voor de agily van de gehele organisatie. Het betreft de periode tussen het moment dat de organisatie kan reageren op een varandering in de markt. Bijvoorbeeld hoe snel de organisatie kan reageren op een concurrent die een voor de markt kritische nieuwe functionaliteit heeft bekentgemaakt.|A measure of true business agility that presents the elapsed time between when an organization receives feedback or new information and when it responds to that feedback; for example, the time between when it finds out that a competitor has delivered a new market-winning feature to when the organization responds with matching or exceeding new capabilities that measurably improve customer experience.
