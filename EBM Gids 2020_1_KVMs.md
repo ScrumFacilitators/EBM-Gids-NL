@@ -9,7 +9,7 @@
 |KVM Meetwaarde:|KVM Measuring:||
 | Omzet per medewerker | Revenue per Employee ||
 | De verhouding (bruto omzet / aantal medewerkers) is een maatstaf voor het concurrentie vermogen binnen de sector. De verschillen tussen sectoren kunnen significant zijn.| The ratio (gross revenue / # of employees) is a key competitive indicator within an industry. This varies significantly by industry. ||
-| Kosten precentage | Product Cost Ratio||
+| Kostenpercentage | Product Cost Ratio||
 | De totale opbrengsten van een product of dienst gedeeld door de totale kosten, inclusief operationele kosten. | Total expenses and costs for the product(s)/system(s) being measured, including operational costs compared to revenue.||
 | Medewerker tevredenheid | Employee Satisfaction||
 | Een indicatie van het sentiment bij de medewerkers, hun enthusiasme en energie. | Some form of sentiment analysis to help gauge employee engagement, energy, and enthusiasm.||
@@ -21,7 +21,7 @@
 |Unrealized Value (UV)| Unrealized Value (UV)||
 |KVM Meetwaarde: |Measuring:||
 |Marktpotentie |Market Share|bewuste afwijking, wegens zoeken naar de gap en mogelijke verwarring wanneer dit afwijkt van de gangbare interpretatie van 'marktaandeel'.|
-| Dit is het aandeel dat een aanbieder van een goed of dienst heeft in de totale omzet op de betreffende markt in een bepaalde periode. Tevens een indicatie van de potentie van het product, gegeven het deel van de markt dat het nog niet beheerst. |The relative percentage of the market not controlled by the product; the potential market share that the product might achieve if it better met customer needs.||
+| Dit is het aandeel dat een aanbieder van een goed of dienst (nog) niet heeft van de totale omzet op de betreffende markt in een bepaalde periode; dit is potentieel marktaandeel dat verkregen kan worden mits de klantbehoefte beter wordt vervuld. |The relative percentage of the market not controlled by the product; the potential market share that the product might achieve if it better met customer needs.||
 |De kloof in de klant- of gebruikerstevredenheid|Customer or User Satisfaction Gap||
 |Deze wordt uitgedrukt in het verschil tussen de ervaring die de klant wenst en datgene wat hij/zij ondervindt.|The difference between a customer or user’s desired experience and their current experience.||
 |Gewenste klantervaring of tevredenheid|Desired Customer Experience or satisfaction||
