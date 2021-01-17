@@ -23,7 +23,7 @@
 |Marktaandeel |Market Share||
 | Dit is het aandeel dat een aanbieder van een goed of dienst heeft in de totale omzet op de betreffende markt in een bepaalde periode. Tevens een indicatie van de potentie van het product, gegeven het deel van de markt dat het nog niet beheerst. |The relative percentage of the market not controlled by the product; the potential market share that the product might achieve if it better met customer needs.||
 |De kloof in de klant- of gebruikerstevredenheid|Customer or User Satisfaction Gap||
-|Deze wordt uitgedrukt in het verschil tussen de ervaring die de klant wenst en datgegene wat hij/zij ondervindt.|The difference between a customer or user’s desired experience and their current experience.||
+|Deze wordt uitgedrukt in het verschil tussen de ervaring die de klant wenst en datgene wat hij/zij ondervindt.|The difference between a customer or user’s desired experience and their current experience.||
 |Gewenste klantervaring of tevredenheid|Desired Customer Experience or satisfaction||
 |De absolute variant van de kloof: een indicator van de gewenste klantervaring.|A measure that indicates the experience that the customer would like to have||
 |Time-to-Market (T2M)| Time-to-Market (T2M)||
@@ -37,7 +37,7 @@
 |Gemiddelde Reparatietijd|Mean Time to Repair
 |De gemiddelde periode die verstrijkt tussen het moment dat een probleem is ontdekt en dat het is opgelost. De gemiddelde reparatietijd kan gebruikt worden om de efficiency van de organisatie te meten met betrekking tot het oplossen van fouten.|The average amount of time it takes from when an error is detected and when it is fixed. This helps reveal the efficiency of an organization to fix an error.
 |Doorlooptijd|Customer Cycle Time
-|De tussen het moment dat men aan he|The amount of time from when work starts on a release until the point where it is actually released. This measure helps reflect an organization’s ability to reach its customer.
+|De tussen het moment dat men aan een release begint te werken, tot het moment waarop deze daadwerkelijk wordt vrijgegeven. Deze meting geeft weer hoe snel een organisatie haar klant kan bereiken. |The amount of time from when work starts on a release until the point where it is actually released. This measure helps reflect an organization’s ability to reach its customer.
 |Aanlooptijd|Lead Time
 |De periode tussen het moment dat een nieuw idee of hypothese is geformuleerd en het moment dat het in de handen van de gebruiker beland. Deze metriek is een proxy voor de klant tevredenheid.|The amount of time from when an idea is proposed, or a hypothesis is formed until a customer can benefit from that idea. This measure may vary based on customer and product. It is a contributing factor for customer satisfaction.
 |Aanlooptijd voor codewijzigingen|Lead Time for Changes
