@@ -20,7 +20,7 @@
 ||||
 |Unrealized Value (UV)| Unrealized Value (UV)||
 |KVM Meetwaarde: |Measuring:||
-|Marktaandeel |Market Share||
+|Marktpotentie |Market Share|bewuste afwijking, wegens zoeken naar de gap en mogelijke verwarring wanneer dit afwijkt van de gangbare interpretatie van 'marktaandeel'.|
 | Dit is het aandeel dat een aanbieder van een goed of dienst heeft in de totale omzet op de betreffende markt in een bepaalde periode. Tevens een indicatie van de potentie van het product, gegeven het deel van de markt dat het nog niet beheerst. |The relative percentage of the market not controlled by the product; the potential market share that the product might achieve if it better met customer needs.||
 |De kloof in de klant- of gebruikerstevredenheid|Customer or User Satisfaction Gap||
 |Deze wordt uitgedrukt in het verschil tussen de ervaring die de klant wenst en datgene wat hij/zij ondervindt.|The difference between a customer or user’s desired experience and their current experience.||
