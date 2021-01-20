@@ -1,10 +1,13 @@
-# Evidence Based Management Gids - Nederlands
+# Evidence-Based Management gids - Nederlands
 A dutch translation of the Evidence Based Management Guide (EBM Guide, originally published in english by Scrum.org). De Nederlandse vertaling van de EBM Guide 2020.
 
 This project is to develop and maintain the Scrum.org Evidence-Based Management Guide in Dutch. The shorthand 'EBM' may be used around this repository when referring to the concept of [Evidence-Based Management as defined in this guide](https://www.scrum.org/resources/evidence-based-management-guide).
 
 # Feedback
 Please let us know if and how this project is valuable to you. And of course we love improvement suggestions too! Let us know in Github Issues, or by sending a message through any other channel to Scrum Facilitators, for instance http://scrumfacilitators.nl
+
+# Bijdrages
+De vertaling is tot stand gekomen door bijdragen, ideeën en correcties uit de Scrum Facilitators community. Bijzondere dank zijn we verschuldigd aan: Chris Lukassen  voor o.a. de vertalingen van de KVM's, en Glaudia Califano en Dennis Mansell voor scherpe feedback en suggesties op vertalingen en nederlands correct taalgebruik.
 
 # License
 
