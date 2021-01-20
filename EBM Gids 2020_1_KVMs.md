@@ -3,7 +3,7 @@
 | Nederlands | English | opmerkingen |
 | - | - | - |
 | Appendix: Voorbeeld Key Value Measures| Appendix: Example Key Value Measures | |
-| Om zo breed mogelijk toepasbaar te zijn, definieert de EBM geen specifieke Key Value Measures (KVM's). De onderstaande KVM's dienen als inspiratie om een organisatie te kunnen helpen om de huidige situatie, de gewenste toekomstige situatie en de factoren die het verandervermogen beinvloeden, beter te begrijpen. |To encourage adaptability, EBM defines no specific Key Value Measures (KVMs). KVMs listed below are presented to show the kinds of measures that might help an organization to understand its current state, desired future state, and factors that influence its ability to improve.||
+| Om zo breed mogelijk toepasbaar te zijn, definieert de EBM geen specifieke Key Value Measures (KVM's). De onderstaande KVM's dienen als inspiratie om een organisatie te kunnen helpen om de huidige situatie, de gewenste toekomstige situatie en de factoren die het verbetervermogen beïnvloeden, beter te begrijpen. |To encourage adaptability, EBM defines no specific Key Value Measures (KVMs). KVMs listed below are presented to show the kinds of measures that might help an organization to understand its current state, desired future state, and factors that influence its ability to improve.| Suggestie van dennis: vertaal adaptability directer met aanpasbaar, en suggestie om ability to improve te vertalen met aanpassingsvermogen. Die laatste heb ik nu alvast aangepast naar verbetervermogen. het is nl niet ability to adapt. De eerst zin moet even met iets meer aandacht herschreven worden. ~SK |
 ||||
 | Current Value (CV)|Current Value (CV)||
 |KVM Meetwaarde:|KVM Measuring:||
