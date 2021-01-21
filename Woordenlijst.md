@@ -11,7 +11,7 @@ Hieronder staat een woordenlijst van veelgebruikte vertalingen van sleutelwoorde
 | Eerstvolgende Doel | Next Target Goal ||
 | Huidige Toestand | Current State ||
 | Strategisch Doel | Strategic Goal ||
-| Tussenliggend Doel | Intermediate Goal ||
+| Tussenliggend Doel | Intermediate Goal || Noot: in de tekst kiezen voor gebruik zonder 'e' voor consistentie! ~SK |
 | Direct Tactisch Doel | Immediate Tactical Goals ||
 | Inspecteren | Inspecting / inspect / Inspection ||
 | Aanpassen | Adapting / Adapt / Adaptation || 
