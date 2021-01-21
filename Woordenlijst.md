@@ -27,3 +27,4 @@ Termen die bewust niet vertaald worden:
 - Unrealized Value
 - Time-to-Market
 - Ability-to-Innovate
+- Plan-Do-Check-Act (PDCA-cyclus)
