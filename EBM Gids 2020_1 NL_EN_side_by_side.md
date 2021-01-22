@@ -111,7 +111,7 @@
 | 1. Hoe snel kan de organisatie leren van nieuwe experimenten en informatie? | 1. How fast can the organization learn from new experiments and information? ||
 | 2. Hoe snel kun je aanpassen op basis van de informatie? | 2. How fast can you adapt based on the information? ||
 | 3. Hoe snel kan je nieuwe ideeën uitproberen met klanten? | 3. How fast can you test new ideas with customers? ||
-| Wanneer T2M verbetert, verbeterd ook de frequentie waarmee een organisatie haar CV kan mogelijk kan aanpassen. | Improving T2M helps improve the frequency at which an organization can potentially change CV. ||
+| Wanneer T2M verbetert, verbetert ook de frequentie waarmee een organisatie haar CV kan mogelijk kan aanpassen. | Improving T2M helps improve the frequency at which an organization can potentially change CV. ||
 | >**Voorbeeld:** *Het verminderen van de functies in een productversie kan de T2M drastisch verbeteren; de kleinst mogelijke release levert ten minste een incrementele waardeverbetering aan een specifiek deel van de klanten/gebruikers van het product. Veel organisaties richten zich ook op het weghalen van activiteiten die geen waarde toevoegen uit hun proces voor productontwikkeling en productlevering om hun T2M te verbeteren.* | >**Example:** *Reducing the number of features in a product release can dramatically improve T2M; the smallest release possible is one that delivers at least some incremental improvement in value to some subset of the customers/users of the product. Many organizations also focus on removing non value-added activities from the product development and delivery process to improve their T2M.* | Product Release > Productrelease, productuitgave, ?? |
 
 ### Ability to Innovate (A2I)
