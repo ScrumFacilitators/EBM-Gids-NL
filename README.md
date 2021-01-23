@@ -1,16 +1,15 @@
 # Evidence-Based Management gids - Nederlands
-A dutch translation of the Evidence Based Management Guide (EBM Guide, originally published in english by Scrum.org). De Nederlandse vertaling van de EBM Guide 2020.
+De Nederlandse vertaling van de Evidence-Based Management Guide (September 2020), oorspronkelijk [gepubliceerd door Scrum.org](https://www.scrum.org/resources/evidence-based-management-guide).
 
-This project is to develop and maintain the Scrum.org Evidence-Based Management Guide in Dutch. The shorthand 'EBM' may be used around this repository when referring to the concept of [Evidence-Based Management as defined in this guide](https://www.scrum.org/resources/evidence-based-management-guide).
+Met dit project ontwikkelen en onderhouden we de Evidence-Based Management gids in het Nederlands. Evidence-based Management (EBM) is een raamwerk om als organisatie op empirische wijze doelen na te streven met een product of dienst.
 
 # Feedback
-Please let us know if and how this project is valuable to you. And of course we love improvement suggestions too! Let us know in Github Issues, or by sending a message through any other channel to Scrum Facilitators, for instance http://scrumfacilitators.nl
+Laat graag weten of en hoe dit project van waarde is. En natuurlijk ontvangen we ook graag verbetersuggesties. Geef ze door via Github issues, of met een bericht via welk ander kanaal dan ook aan Scrum Facilitators, bijvoorbeeld http://scrumfacilitators.nl
 
 # Bijdrages
-De vertaling is tot stand gekomen door bijdragen, ideeën en correcties uit de Scrum Facilitators community. Bijzondere dank zijn we verschuldigd aan: Chris Lukassen  voor o.a. de vertalingen van de KVM's, en Glaudia Califano en Dennis Mansell voor scherpe feedback en suggesties op vertalingen en nederlands correct taalgebruik.
+De vertaling is tot stand gekomen door bijdragen, ideeën en correcties uit de Scrum Facilitators community. Bijzondere dank zijn we verschuldigd aan: Chris Lukassen  voor o.a. de vertalingen van de KVM’s, en Glaudia Califano en Dennis Mansell voor scherpe feedback en suggesties op vertalingen en nederlands correct taalgebruik.
 
-# License
+# Lictie
+Deze publicatie wordt gelicenseerd onder Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal (CC BY-SA 4.0), toegankelijk op https://creativecommons.org/licenses/by-sa/4.0/legalcode.nl en als samenvatting op https://creativecommons.org/licenses/by-sa/4.0/deed.nl . Door deze EBM gids te gebruiken, erken je en ga je er akkoord mee, dat je de termen van de Creative Commons Naamsvermelding-GelijkDelen licentie hebt gelezen en het ermee eens bent.
 
-[The Evidence-Based Management Guide in English](https://www.scrum.org/resources/evidence-based-management-guide) is developed, maintained and published by Scrum.org - © 2020 Scrum.org
-
-This publication is offered for license under the Attribution Share-Alike license of Creative Commons, accessible at http://creativecommons.org/licenses/by-sa/4.0/legalcode and also described in summary form at http://creativecommons.org/licenses/by-sa/4.0/. By utilising this EBM Guide, you acknowledge and agree that you have read and agree to be bound by the terms of the Attribution Share-Alike license of Creative Commons.
+De [Evidence-Based Management Guide](https://www.scrum.org/resources/evidence-based-management-guide) (Engels) wordt ontwikkeld, onderhouden en gepubliceerd door Scrum.org - © 2020 Scrum.org
