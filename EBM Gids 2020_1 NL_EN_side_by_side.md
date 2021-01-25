@@ -6,7 +6,7 @@
 | # De Evidence-Based Management gids|The Evidence-Based Management Guide | H1 - EBM niet vertalen voorlopig |
 | ## Waarde meten om verbetering en wendbaarheid mogelijk te maken | Measuring Value to Enable Improvement and Agility | H2 |
 | September 2020 | September 2020 | |
-| | Vertaling: Sjoerd Kranendonk voor Scrum Facilitators, 2021, Versie 1.0 | |
+| | Vertaling: Sjoerd Kranendonk voor Scrum Facilitators, 2021, Versie 0.1 | |
 
 
 # Doel van de EBM Gids
@@ -184,7 +184,7 @@
 | Feedback, suggesties & verbeteringen: https://github.com/ScrumFacilitators/EBM-Gids-NL/issues | | |
 
 # Overzicht van wijzigingen
-Dit is de eerste vertaling (versie 1.0), en er zijn dus nog geen wijzigingen ten opzichte van eerdere versies.
+Dit is de eerste vertaling (versie 0.1), en er zijn dus nog geen wijzigingen ten opzichte van eerdere versies.
 
 # Appendix
 
