@@ -6,7 +6,7 @@
 | # De Evidence-Based Management gids|The Evidence-Based Management Guide | H1 - EBM niet vertalen voorlopig |
 | ## Waarde meten om verbetering en wendbaarheid mogelijk te maken | Measuring Value to Enable Improvement and Agility | H2 |
 | September 2020 | September 2020 | |
-| | **Vertaling: Sjoerd Kranendonk voor Scrum Facilitators, 2021** | |
+| | Vertaling: Sjoerd Kranendonk voor Scrum Facilitators, 2021, Versie 1.0 | |
 
 
 # Doel van de EBM Gids
@@ -166,24 +166,25 @@
 | - | - | - |
 | # Erkenningen | # Acknowledgements | H1 |
 | Evidence-Based Management is gezamenlijk ontwikkeld door Scrum.org, de Professional Scrum Trainer-gemeenschap, Ken Schwaber en Christina Schwaber | Evidence-Based Management was collaboratively developed by Scrum.org, the Professional Scrum Trainer Community, Ken Schwaber and Christina Schwaber. ||
-| Het initiatief en beheer van deze Nederlandse vertaling is van Sjoerd Kranendonk voor Scrum Facilitators en bevat bijdragen van Chris Lukassen, Glaudia Califano en Dennis Mansell. || aanvullen met andere vertalers |
 
 ## Vertaling
 
 | Nederlands | English | opmerkingen |
 | - | - | - |
 | ## Vertaling | ## Translator Acknowledgement | H2 |
-| Deze gids is een vertaling van de oorspronkelijke Engelse versie, die beschikbaar is gesteld door de ontwikkelaars die hierboven zijn vermeld. Aan deze vertaling hebben bijgedragen: Sjoerd Kranendonk. | This guide has been translated from the original English version provided by the developers acknowledged above. Contributors to the translation include [First name] [Last name]. | vertalers toevoegen |
+| Deze gids is een vertaling van de oorspronkelijke Engelse versie, die beschikbaar is gesteld door de ontwikkelaars die hierboven zijn vermeld. AHet initiatief en beheer van deze Nederlandse vertaling ligt bij Sjoerd Kranendonk voor Scrum Facilitators. De vertaalde gids bevat verder bijdragen van Chris Lukassen, Glaudia Califano en Dennis Mansell. | This guide has been translated from the original English version provided by the developers acknowledged above. Contributors to the translation include [First name] [Last name]. | vertalers toevoegen |
+|  || aanvullen met andere vertalers |
 | ### Contactgegevens | ### Contact Information | H3 |
 | Vertalers: Sjoerd Kranendonk. | Translator Name(s) : | required |
-| | Translation Group Name : | optional |
+| Vertaalgroep: Scrum Facilitators Community | Translation Group Name : | optional |
 | Contact email: sjoerd@scrumfacilitators.nl | Primary Contact Email : | required |
 | Website: http://www.scrumfacilitators.nl | (optional) Website : | |
 | Linkedin: https://www.linkedin.com/company/scrumfacilitators/ | (optional) LinkedIn : | |
 | | (optional) Twitter : (optional) Facebook :|  |
+| Feedback, suggesties & verbeteringen: https://github.com/ScrumFacilitators/EBM-Gids-NL/issues | | |
 
 # Overzicht van wijzigingen
-Dit is de eerste vertaling, en er zijn dus nog geen wijzigingen ten opzichte van eerdere versies.
+Dit is de eerste vertaling (versie 1.0), en er zijn dus nog geen wijzigingen ten opzichte van eerdere versies.
 
 # Appendix
 
