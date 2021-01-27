@@ -4,8 +4,10 @@
 | - | - | - |
 | Appendix: Voorbeeld Key Value Measures| Appendix: Example Key Value Measures | |
 | Om zo goed mogelijk aanpasbaar te zijn, definieert de EBM geen specifieke Key Value Measures (KVM's). De onderstaande KVM's dienen als inspiratie om een organisatie te kunnen helpen om de huidige situatie, de gewenste toekomstige situatie en de factoren die het verbetervermogen beïnvloeden, beter te begrijpen. | To encourage adaptability, EBM defines no specific Key Value Measures (KVMs). KVMs listed below are presented to show the kinds of measures that might help an organization to understand its current state, desired future state, and factors that influence its ability to improve.| Suggestie van dennis: vertaal adaptability directer met aanpasbaar, en suggestie om ability to improve te vertalen met aanpassingsvermogen. Die laatste heb ik nu alvast aangepast naar verbetervermogen. het is nl niet ability to adapt. De eerst zin moet even met iets meer aandacht herschreven worden. ~SK |
-||||
-| Current Value (CV)|Current Value (CV)||
+
+## Current Value (CV)
+| Nederlands | English | opmerkingen |
+| - | - | - |
 |KVM Meetwaarde:|KVM Measuring:||
 | Omzet per medewerker | Revenue per Employee ||
 | De verhouding (bruto omzet / aantal medewerkers) is een maatstaf voor het concurrentie vermogen binnen de sector. De verschillen tussen sectoren kunnen significant zijn.| The ratio (gross revenue / # of employees) is a key competitive indicator within an industry. This varies significantly by industry. ||
@@ -17,16 +19,21 @@
 | Een indicate die beschrijft hoe gelukkig de klant wordt van het product, en de interactie ermee. | Some form of sentiment analysis to help gauge customer engagement and happiness with the product. ||
 | Productgebruik| Customer Usage Index ||
 | De frequentie en/of intensie waarmee gebruikers interacteren met het product. Dit is een proxy voor de bruikbaarheid van het product en of het daadwerkelijk het probleem van de klant oplost. | Measurement of usage, by feature, to help infer the degree to which customers find the product useful and whether actual usage meets expectations on how long users should be taking with a feature.||
-||||
-|Unrealized Value (UV)| Unrealized Value (UV)||
+
+## Unrealized Value (UV)
+| Nederlands | English | opmerkingen |
+| - | - | - |
 |KVM Meetwaarde: |Measuring:||
 |Marktpotentie |Market Share|bewuste afwijking, wegens zoeken naar de gap en mogelijke verwarring wanneer dit afwijkt van de gangbare interpretatie van 'marktaandeel'.|
 | Dit is het aandeel dat een aanbieder van een goed of dienst (nog) niet heeft van de totale omzet op de betreffende markt in een bepaalde periode; dit is potentieel marktaandeel dat verkregen kan worden mits de klantbehoefte beter wordt vervuld. |The relative percentage of the market not controlled by the product; the potential market share that the product might achieve if it better met customer needs.||
 |De kloof in de klant- of gebruikerstevredenheid|Customer or User Satisfaction Gap||
 |Deze wordt uitgedrukt in het verschil tussen de ervaring die de klant wenst en datgene wat hij/zij ondervindt.|The difference between a customer or user’s desired experience and their current experience.||
-|Gewenste klantervaring of tevredenheid|Desired Customer Experience or satisfaction||
+|Gewenste klantervaring of -tevredenheid|Desired Customer Experience or satisfaction||
 |De absolute variant van de kloof: een indicator van de gewenste klantervaring.|A measure that indicates the experience that the customer would like to have||
-|Time-to-Market (T2M)| Time-to-Market (T2M)||
+
+## Time-to-Market (T2M)
+| Nederlands | English | opmerkingen |
+| - | - | - |
 |KVM Meetwaarde:| KVM Measuring:||
 |Bouw- en integratiefrequentie|Build and Integration Frequency
 |Het aantal keren per tijdseenheid dat software geïntegreerd, gebouwd en getest wordt. Indien een team het product regelmatig of voortdurend naar de markt brengt is deze laatste indicator belangrijker.|The number of integrated and tested builds per time period. For a team that is releasing frequently or continuously, this measure is superseded by actual release measures.
@@ -52,7 +59,10 @@
 |De gemiddelde tijd tussen het melden van een belemmering en het oplossen ervan. Dit is een proxy voor medewerker tevredeheid en aanlooptijd.|The average amount of time from when an impediment is raised until when it is resolved. It is a contributing factor to lead time and employee satisfaction.
 |Omschakeltijd|Time to Pivot
 | Een daadwerkelijke maatstaf van de wendbaarheid van de gehele organisatie. Het betreft de periode tussen het ontvangen van feedback of nieuwe informatie en het moment dat de organisatie daarop reageert; bijvoorbeeld hoe snel de organisatie kan reageren op een concurrent die een nieuwe markt-veroverende feature heeft uitgebracht, door in hun eigen product vergelijkbare of overtreffende mogelijkheden in te bouwen die de klantervaring meetbaar verbeteren. | A measure of true business agility that presents the elapsed time between when an organization receives feedback or new information and when it responds to that feedback; for example, the time between when it finds out that a competitor has delivered a new market-winning feature to when the organization responds with matching or exceeding new capabilities that measurably improve customer experience. ||
-|Ability to Innovate (A2I)| Ability to Innovate (A2I)||
+
+## Ability to Innovate (A2I)
+| Nederlands | English | opmerkingen |
+| - | - | - |
 |KVM Meetwaarde:| KVM Measuring:||
 |Innovatie ratio|Innovation Rate
 |Het percentage van de capaciteit, tijd of budget wat gespendeerd wordt aan het leveren van nieuwe functionaliteit, gedeeld door het totaal. Dit getal geeft inzicht in het vermogen van de organisatie om nieuwe functionaliteit aan een product toe te voegen. |The percentage of effort or cost spent on new product capabilities, divided by total product effort or cost. This provides insight into the capacity of the organization to deliver new product capabilities.| Ik neig er naar om capacity anders te vertalen: het vermogen om te reageren op nieuwe klant wensen, maar dat is ver bij de bron vandaan.|
