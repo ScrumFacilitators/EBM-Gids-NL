@@ -48,11 +48,11 @@
 |Aanlooptijd|Lead Time
 |De periode tussen het moment dat een nieuw idee of hypothese is geformuleerd en het moment dat het in de handen van de gebruiker beland. Deze metriek is een proxy voor de klant tevredenheid.|The amount of time from when an idea is proposed, or a hypothesis is formed until a customer can benefit from that idea. This measure may vary based on customer and product. It is a contributing factor for customer satisfaction.
 |Aanlooptijd voor codewijzigingen|Lead Time for Changes
-|De periode tussen het opslaan van de code in het versie-managementsysteem en deze code succesvol werkend hebben op de productie omgeving. Voor meer informatie zie het DORA 2019 rapport (engels.)|The amount of time to go from code-committed to code successfully running in production. For more information, see the DORA 2019 report.
+|De periode tussen het opslaan van de code in het versie-managementsysteem en deze code succesvol werkend hebben op de productie omgeving. Voor meer informatie zie het DORA 2019 rapport (engels).|The amount of time to go from code-committed to code successfully running in production. For more information, see the DORA 2019 report.
 |Uitrolfrequentie |Deployment Frequency||
-|Het aantal keer per periode dat een organisatie een nieuwe versie van het product vrijgeeft. Zie ook het DORA 2019 rapport (engels.)|The number of times that the organization deployed (released) a new version of the product to customers/users. For more information, see the DORA 2019 report.
+|Het aantal keer per periode dat een organisatie een nieuwe versie van het product vrijgeeft. Zie ook het DORA 2019 rapport (engels).|The number of times that the organization deployed (released) a new version of the product to customers/users. For more information, see the DORA 2019 report.
 |Hersteltijd|Time to Restore Service
-|De periode tussen het moment dat een service een storing ondergaat en het moment dat het hersteld is.  Zie ook het DORA 2019 rapport (engels.)|The amount of time between the start of a service outage and the restoration of full availability of the service. For more information, see the DORA 2019 report.
+|De periode tussen het moment dat een service een storing ondergaat en het moment dat het hersteld is.  Zie ook het DORA 2019 rapport (engels).|The amount of time between the start of a service outage and the restoration of full availability of the service. For more information, see the DORA 2019 report.
 |Leerperiode|Time-to-Learn
 |De tijd benodigd om een idee uit te werken, schetsen, bouwen, aan een klant te leveren en te kunnen leren van hun interactie ermee.|The total time needed to sketch an idea or improvement, build it, deliver it to users, and learn from their usage.|mogelijk eenvoudiger: "en te kunnen leren van het gebruik er van"|
 |Belemmeringsperiode|Time to remove Impediment
