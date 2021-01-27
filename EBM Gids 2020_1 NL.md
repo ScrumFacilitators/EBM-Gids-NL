@@ -176,6 +176,57 @@ Deze gids is een vertaling van de oorspronkelijke Engelse versie, die beschikbaa
 ### Overzicht van wijzigingen
 Dit is de eerste vertaling (versie 0.1), en er zijn dus nog geen wijzigingen ten opzichte van eerdere versies.
 
-# Appendix
+# Appendix: Voorbeeld Key Value Measures
 
-*Zie bestand (EBM Gids 2020_1_KVMs.md) voor de appendix met voorbeeld-KVM's*
+*Zie bestand (EBM Gids 2020_1_KVMs.md) voor de volledige appendix met voorbeeld-KVM's*
+
+Om zo goed mogelijk aanpasbaar te zijn, definieert de EBM geen specifieke Key Value Measures (KVM's). De onderstaande KVM's dienen als inspiratie om een organisatie te kunnen helpen om de huidige situatie, de gewenste toekomstige situatie en de factoren die het verbetervermogen beïnvloeden, beter te begrijpen.
+
+## Current Value (CV)
+
+| KVM Meetwaarde: ||
+|-|-|
+| Omzet per medewerker | De verhouding (bruto omzet / aantal medewerkers) is een maatstaf voor het concurrentie vermogen binnen de sector. De verschillen tussen sectoren kunnen significant zijn. |
+| Kostenpercentage | De totale opbrengsten van een product of dienst gedeeld door de totale kosten, inclusief operationele kosten. |
+| Medewerkertevredenheid | Een indicatie van het sentiment bij de medewerkers, hun enthusiasme en energie. |
+| Klanttevredenheid | Een indicate die beschrijft hoe gelukkig de klant wordt van het product, en de interactie ermee. |
+| Productgebruik | De frequentie en/of intensie waarmee gebruikers interacteren met het product. Dit is een proxy voor de bruikbaarheid van het product en of het daadwerkelijk het probleem van de klant oplost. |
+
+## Unrealized Value (UV)
+
+| KVM Meetwaarde: ||
+|-|-|
+| Marktpotentie | Dit is het aandeel dat een aanbieder van een goed of dienst (nog) niet heeft van de totale omzet op de betreffende markt in een bepaalde periode; dit is potentieel marktaandeel dat verkregen kan worden mits de klantbehoefte beter wordt vervuld. |
+| De kloof in de klant- of gebruikerstevredenheid | Deze wordt uitgedrukt in het verschil tussen de ervaring die de klant wenst en datgene wat hij/zij ondervindt. |
+| Gewenste klantervaring of -tevredenheid | e absolute variant van de kloof: een indicator van de gewenste klantervaring. |
+
+## Time-to-Market (T2M)
+
+| KVM Meetwaarde: ||
+|-|-|
+| Bouw- en integratiefrequentie | Het aantal keren per tijdseenheid dat software geïntegreerd, gebouwd en getest wordt. Indien een team het product regelmatig of voortdurend naar de markt brengt is deze laatste indicator belangrijker. |
+| Release-frequentie | Het aantal keren per tijdseenheid (b.v. doorlopend, dagelijks, wekelijks, maandelijks, per kwartaal etc.) dat een product naar de markt wordt gebracht. Dit dient als maatstaf voor de tijd die nodig is om de eindgebruiker te voorzien van nieuwe en concurrerende producten. |
+| Release-stabilisatieperiode	 | De bestede tijd aan herstellen van problemen, tussen het moment waarop de developers aangeven dat het product klaar is om gereleased te worden en het moment dat het daadwerkelijk vrijgegeven kan worden. Ontwerp, de kwaliteit van het product, alsmede de robuustheid van het ontwikkelprocess hebben hier directe invloed op. |
+| Gemiddelde Reparatietijd | De gemiddelde periode die verstrijkt tussen het moment dat een probleem is ontdekt en dat het is opgelost. De gemiddelde reparatietijd kan gebruikt worden om de efficiency van de organisatie te meten met betrekking tot het oplossen van fouten.	|
+| Doorlooptijd | De tussen het moment dat men aan een release begint te werken, tot het moment waarop deze daadwerkelijk wordt vrijgegeven. Deze meting geeft weer hoe snel een organisatie haar klant kan bereiken.	|
+| Aanlooptijd | De periode tussen het moment dat een nieuw idee of hypothese is geformuleerd en het moment dat het in de handen van de gebruiker beland. Deze metriek is een proxy voor de klant tevredenheid.	|
+| Aanlooptijd voor codewijzigingen | De periode tussen het opslaan van de code in het versie-managementsysteem en deze code succesvol werkend hebben op de productie omgeving. Voor meer informatie zie het DORA 2019 rapport (engels). |	Uitrolfrequentie | Het aantal keer per periode dat een organisatie een nieuwe versie van het product vrijgeeft. Zie ook het DORA 2019 rapport (engels).	|
+| Hersteltijd | De periode tussen het moment dat een service een storing ondergaat en het moment dat het hersteld is. Zie ook het DORA 2019 rapport (engels).|
+| Leerperiode | De tijd benodigd om een idee uit te werken, schetsen, bouwen, aan een klant te leveren en te kunnen leren van hun interactie ermee.	|
+| Belemmeringsperiode | De gemiddelde tijd tussen het melden van een belemmering en het oplossen ervan. Dit is een proxy voor medewerker tevredeheid en aanlooptijd. |
+| Omschakeltijd | Een daadwerkelijke maatstaf van de wendbaarheid van de gehele organisatie. Het betreft de periode tussen het ontvangen van feedback of nieuwe informatie en het moment dat de organisatie daarop reageert; bijvoorbeeld hoe snel de organisatie kan reageren op een concurrent die een nieuwe markt-veroverende feature heeft uitgebracht, door in hun eigen product vergelijkbare of overtreffende mogelijkheden in te bouwen die de klantervaring meetbaar verbeteren.
+
+## Ability to Innovate (A2I)
+
+| KVM Meetwaarde: ||
+|-|-|
+| Innovatie ratio | Het percentage van de capaciteit, tijd of budget wat gespendeerd wordt aan het leveren van nieuwe functionaliteit, gedeeld door het totaal. Dit getal geeft inzicht in het vermogen van de organisatie om nieuwe functionaliteit aan een product toe te voegen. |
+| Defecten-trends | Een meeting van de toe- of afname van defecten sinds de laatste meeting. Een defect is alles wat de waarde van het product verminderd voor een klant, gebruiker of de organisatie zelf. Defects zijn over het algemeen zaken die niet werken zoals bedoeld. |
+| Focustijd | Het percentage van de tijd dat teams daadwerkelijk aan het product kunnen werken. |
+| Aantal geïnstalleerde versies | Het aantal versies van het product dat op dit moment wordt ondersteund. Dit getal reflecteert de capaciteit die de organisatie gebruikt om oudere versies van de software te ondersteunen. |
+| Technische schuld | Een concept in software ontwikkeling dat de extra ontwikkelings- en testwerkzaamheden weerspiegelt die ontstaan wanneer "snelle" oplossingen resulteren in een later herstelwerk. Het creëert een ongewenste impact op het leveren van waarde en een vermijdbare toename van herstelwerk en risico. |
+| Aantal productiefouten | Het aantal keren dat het Development Team in een bepaalde periode werd onderbroken om een probleem in een geïnstalleerd product op te lossen. Het aantal en de frequentie van productie-incidenten kan helpen om de stabiliteit van het product aan te geven. |
+| Aantal actieve product (broncode) varianten | Het aantal verschillende versies (of varianten) van een product of dienst. Geeft inzicht in de potentiële impact van verandering en de daaruit voortvloeiende complexiteit van het werk. |
+| Tijd benodigd voor het samenvoegen van broncode | De hoeveelheid tijd die wordt besteed aan het aanbrengen van wijzigingen in verschillende versies van een product of dienst. Geeft inzicht in de potentiële impact van veranderingen en de daaruit voortvloeiende complexiteit van het werk. |
+| Tijd besteed aan Context-schakelen | Voorbeelden hiervan zijn tijd die verloren gaat door onderbrekingen als gevolg van vergaderingen of gesprekken, tijd die wordt besteed aan het wisselen tussen taken en tijd die verloren gaat wanneer teamleden worden onderbroken om mensen buiten het team te helpen, kunnen een eenvoudig inzicht geven in de omvang van het probleem. |
+| De faalratio van wijzigingen | Het percentage vrijgegeven productveranderingen die leiden tot een verminderde service en die moeten worden hersteld (bijv. hotfix, rollback, patch). Zie voor meer informatie het DORA-rapport 2019. |
