@@ -22,7 +22,7 @@ This publication is offered for license under the Attribution Share-Alike licens
 
 # EBM helpt organisaties in een complexe wereld om empirisme te gebruiken in de zoektocht naar hun doelen
 
-Complexe problemen hebben geen eenvoudige oplossingen, maar dwingen organisaties te zoeken naar hun doelen in opeenvolgende kleine stappen, waarbij de resultaten van elke stap geïnspecteerd worden, en de vervolgacties op basis van feedback worden aangepast (adaptatie) (zie Figuur 1).[1]
+Complexe problemen hebben geen eenvoudige oplossingen, maar dwingen organisaties te zoeken naar hun doelen in opeenvolgende kleine stappen, waarbij de resultaten van elke stap geïnspecteerd worden, en de vervolgacties op basis van feedback worden aangepast (adaptatie) (zie Figuur 1).<sup>1</sup>
 
 Dit model bestaat uit een aantal essentiële elementen:
 - Een *Strategisch Doel*, dit is iets belangrijks dat de organisatie graag wil behalen. Dit doel is zo groot en ver weg, met vele onzekerheden op de weg er naar toe, dat de organisatie niet anders kan dan empirisme gebruiken. Omdat het Strategisch Doel ambitieus is en de weg er naar toe onzeker, heeft de organisatie een serie praktische doelen nodig, zoals
