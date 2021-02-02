@@ -74,7 +74,7 @@ Voorbeelden van Key Value Measures (KVMs) voor elke KVA worden beschreven in de 
 ### Current Value (CV)
 **Huidige Waarde: De waarde die het product op dit moment levert**
 
-Het doel van CV is om de waarde te begrijpen die een organisatie op dit moment levert aan klanten en belanghebbenden; alleen wat nu al bestaat wordt meegewogen, niet de waarde die mogelijk in de toekomst zal bestaan. Vragen die organisaties voortdurend herevalueren voor de huidige waarde zijn:
+Het *doel* van CV is om de waarde te begrijpen die een organisatie op dit moment levert aan klanten en belanghebbenden; alleen wat nu al bestaat wordt meegewogen, niet de waarde die mogelijk in de toekomst zal bestaan. Vragen die organisaties voortdurend herevalueren voor de huidige waarde zijn:
 1. Hoe tevreden zijn gebruikers en klanten op dit moment? Neemt hun tevredenheid toe, of juist af?
 2. Hoe tevreden zijn onze medewerkers op dit moment? Neemt hun tevredenheid toe, of juist af?
 3. Hoe tevreden zijn de investeerders en andere belanghebbenden op dit moment? Neemt hun tevredenheid toe, of juist af?
@@ -83,7 +83,7 @@ Rekening houden met CV helpt een organisatie om de waarde te begrijpen die hun k
 
 > **Voorbeeld:** *Terwijl winst, een manier om tevredenheid van investeerders te meten, je de economische impact geeft van de waarde die je wilt leveren, zal weten hoe tevreden klanten zijn met hun aankoop je meer inzicht geven over wat je kunt verbeteren om deze klanten te behouden. Wanneer je klanten weinig alternatieven hebben voor jouw product, kun je hoge winst behalen, zelfs met een lage klanttevredenheid. Rekening houden met verschillende invalshoeken van CV zal een beter begrip opleveren van je uitdagingen en kansen.*
 >
-> *klanttevredenheid en investeerderstevredenheid vertellen ook niet het hele verhaal over je geschiktheid om waarde te leveren. Door rekening houden met de houding en gemoedstoestand van medewerkers erkennen we dat medewerkers uteindelijk degenen zijn die waarde leveren. Betrokken medewerkers die weten hoe ze het product kunnen onderhouden, continueren en verbeteren zijn een van de meest significante middelen van een organisatie, en tevreden medewerkers tonen hogere betrokkenheid en productiviteit.*
+> *klanttevredenheid en investeerderstevredenheid vertellen ook niet het hele verhaal over je geschiktheid om waarde te leveren. Door rekening houden met de houding en gemoedstoestand van medewerkers erkennen we dat medewerkers uiteindelijk degenen zijn die waarde leveren. Betrokken medewerkers die weten hoe ze het product kunnen onderhouden, continueren en verbeteren zijn een van de meest significante middelen van een organisatie, en tevreden medewerkers tonen hogere betrokkenheid en productiviteit.*
 
 ### Unrealized Value (UV)
 **Nog niet gerealiseerde Waarde: De potentiële toekomstige waarde die behaald kan worden wanneer de organisatie de behoeftes vervult van alle potentiële klanten of gebruikers**
