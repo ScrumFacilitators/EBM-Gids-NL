@@ -49,7 +49,7 @@ Bij het stellen van doelen moeten organisaties specifieke metingen bepalen die a
 >- *Een voorbeeld van een Tussenliggend Doel is het succesvol voltooien van een vaccinproef voor deze ziekte. Dit is nog steeds ambitieus en meetbaar, en om dit te behalen moeten mogelijk meerdere activiteiten voltooid worden, maar het is een noodzakelijke stap op de weg naar het behalen van het Strategisch Doel.*
 >- *Voorbeelden van directe tactische doelen zijn activiteiten zoals het isoleren van symptomen, evalueren van een behandeling, DNA sequencing van een virus of bacterie, enzovoort.*
 
-*Het Strategisch Doel* is meestal gericht op het behalen van een hoogst wenselijke maar nog onbehaalde uitkomst voor een specifieke groep mensen die leidt tot verbeterd geluk, veiligheid, zekerheid of welzijn van de ontvangers van een bepaald product of dienst. In EBM noemen we dit *Unrealized Value*: het verschil tussen de gewenste uitkomst en de huidige ervaringe van een begunstigde. *Unrealized Value* wordt hieronder in meer detail beschreven, in het onderdeel *Key Value Areas*.
+*Het Strategisch Doel* is meestal gericht op het behalen van een hoogst wenselijke maar nog onbehaalde uitkomst voor een specifieke groep mensen die leidt tot verbeterd geluk, veiligheid, zekerheid of welzijn van de ontvangers van een bepaald product of dienst. In EBM noemen we dit *Unrealized Value*: het verschil tussen de gewenste uitkomst en de huidige ervaringen van een begunstigde. *Unrealized Value* wordt hieronder in meer detail beschreven, in het onderdeel *Key Value Areas*.
 
 # Begrijpen wat waardevol is
 
