@@ -97,9 +97,9 @@ Vragen die organisaties voortdurend moeten heroverwegen voor UV zijn:
 
 Het beschouwen van zowel CV als UV geeft organisaties een manier om huidige zowel als mogelijke toekomstige voordelen af te wegen. Strategisch Doelen worden gevormd vanuit een tevredenheidskloof en een kans voor een organisatie om UV te verlagen door CV te verhogen.
 
->**Bijvoorbeeld:** *Een product kan een lage CV hebben omdat het een vroege versie is die gebruikt wordt om de markt te testen en een erg hoge UV die aangeeft dat er een groot marktpotentieel is. Het is waarschijnlijk gerechtvaardigd om een poging te doen om CV te verhogen, gegeven de potentiële winst, door te investeren in het product ondanks dat het product momenteel geen hoge CV oplevert. *
+>**Bijvoorbeeld:** *Een product kan een lage CV hebben omdat het een vroege versie is die gebruikt wordt om de markt te testen en een erg hoge UV die aangeeft dat er een groot marktpotentieel is. Het is waarschijnlijk gerechtvaardigd om een poging te doen om CV te verhogen, gegeven de potentiële winst, door te investeren in het product ondanks dat het product momenteel geen hoge CV oplevert.*
 >
->*Andersom, een product met erg hoge CV, een groot marktaandeel, geen nabije competitie en erg tevreden klanten, rechtvaardigt waarschijnlijk geen grote investering; dit is de klassieke geldkoe die erg winstgevend is, maar aan het eind van haar (product-)investeringscyclus zit met lage UV. *
+>*Andersom, een product met erg hoge CV, een groot marktaandeel, geen nabije competitie en erg tevreden klanten, rechtvaardigt waarschijnlijk geen grote investering; dit is de klassieke geldkoe die erg winstgevend is, maar aan het eind van haar product-investeringscyclus zit met lage UV.*
 
 ### Time-to-Market (T2M)
 **Tijd-tot-aan-de-markt: Het vermogen van de organisatie om snel nieuwe mogelijkheden, diensten of producten te leveren**
