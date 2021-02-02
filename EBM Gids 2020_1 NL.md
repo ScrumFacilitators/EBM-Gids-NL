@@ -25,7 +25,7 @@ This publication is offered for license under the Attribution Share-Alike licens
 Complexe problemen hebben geen eenvoudige oplossingen, maar dwingen organisaties te zoeken naar hun doelen in opeenvolgende kleine stappen, waarbij de resultaten van elke stap geïnspecteerd worden, en de vervolgacties op basis van feedback worden aangepast (adaptatie) (zie Figuur 1).<sup>1</sup>
 
 Dit model bestaat uit een aantal essentiële elementen:
-- Een *Strategisch Doel*, dit is iets belangrijks dat de organisatie graag wil behalen. Dit doel is zo groot en ver weg, met vele onzekerheden op de weg er naar toe, dat de organisatie niet anders kan dan empirisme gebruiken. Omdat het Strategisch Doel ambitieus is en de weg er naar toe onzeker, heeft de organisatie een serie praktische doelen nodig, zoals
+- Een *Strategisch Doel*, dit is iets belangrijks dat de organisatie graag wil behalen. Dit doel is zo groot en ver weg, met vele onzekerheden op de weg ernaartoe, dat de organisatie niet anders kan dan empirisme gebruiken. Omdat het Strategisch Doel ambitieus is en de weg ernaartoe onzeker, heeft de organisatie een serie praktische doelen nodig, zoals
 - *Tussenliggende Doelen*, waarvan het behalen aangeeft dat de organisatie op weg is naar het *Strategisch Doel*. De weg naar het *Tussenliggende Doel* is vaak nog steeds enigszins onzeker, maar niet volledig onbekend.
 - *Directe Tactische Doelen*, essentiële korte-termijn-doelen waar een team of groep van teams naartoe werkt, die bijdragen aan  *Tussenliggende Doelen*.
 - Een *Begintoestand*, dit is waar de organisatie zich bevindt, relatief aan het *Strategische Doel*, aan het begin van haar reis.
