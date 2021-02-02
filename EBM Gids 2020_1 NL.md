@@ -10,7 +10,7 @@ September 2020
 
 # Doel van de Evidence-Based Management gids
 
-Evidence-Based Management (EBM) is een empirische aanpak die organisaties helpt met continu verbeteren van: klant-uitkomsten, organisatie-bekwaamheid en bedrijfsresultaten in onzekere situaties. Het levert een raamwerk voor organisaties om hun bekwaamheid te verbeteren waarmee ze waarde leveren in een onzekere wereld, en een weg zoeken naar strategische doelen. Door gebruik te maken van doelgerichte experimenten en bewijs (metingen), stelt EBM organisaties in staat om hun prestaties systematisch te verbeteren met de tijd en hun doelen aan te scherpen met betere informatie.
+Evidence-Based Management (EBM) is een empirische aanpak die organisaties helpt met continu verbeteren van: klant-uitkomsten, organisatie-bekwaamheid en bedrijfsresultaten in onzekere situaties. Het levert een raamwerk voor organisaties om hun bekwaamheid te verbeteren waarmee ze waarde leveren in een onzekere wereld, en een weg zoeken naar Strategisch Doelen. Door gebruik te maken van doelgerichte experimenten en bewijs (metingen), stelt EBM organisaties in staat om hun prestaties systematisch te verbeteren met de tijd en hun doelen aan te scherpen met betere informatie.
 
 Door huidige omstandigheden te meten, prestatiedoelen te stellen, kleine experimenten voor verbetering op te zetten (die snel kunnen worden uitgevoerd), het effect van het experiment te meten, en doelen en vervolgstappen te inspecteren en adapteren, helpt EBM organisaties rekening te houden met het beste beschikbare bewijs om besluiten te nemen over manieren om te verbeteren.
 
@@ -28,13 +28,13 @@ Dit model bestaat uit een aantal essentiële elementen:
 - Een *Strategisch Doel*, dit is iets belangrijks dat de organisatie graag wil behalen. Dit doel is zo groot en ver weg, met vele onzekerheden op de weg ernaartoe, dat de organisatie niet anders kan dan empirisme gebruiken. Omdat het Strategisch Doel ambitieus is en de weg ernaartoe onzeker, heeft de organisatie een serie praktische doelen nodig, zoals
 - *Tussenliggende Doelen*, waarvan het behalen aangeeft dat de organisatie op weg is naar het *Strategisch Doel*. De weg naar het *Tussenliggende Doel* is vaak nog steeds enigszins onzeker, maar niet volledig onbekend.
 - *Directe Tactische Doelen*, essentiële korte-termijn-doelen waar een team of groep van teams naartoe werkt, die bijdragen aan  *Tussenliggende Doelen*.
-- Een *Begintoestand*, dit is waar de organisatie zich bevindt, relatief aan het *Strategische Doel*, aan het begin van haar reis.
-- Een *Huidige Toestand*, dit is waar de organisatie zich bevindt, relatief aan het *Strategische Doel*, op dit moment.
+- Een *Begintoestand*, dit is waar de organisatie zich bevindt, relatief aan het *Strategisch Doel*, aan het begin van haar reis.
+- Een *Huidige Toestand*, dit is waar de organisatie zich bevindt, relatief aan het *Strategisch Doel*, op dit moment.
 
-Om voortgang te maken naar het *Strategische Doel* voeren organisaties experimenten uit waarin hypotheses gevormd worden, die bedoeld zijn om de organisatie richting hun huidige *Tussenliggende Doel* te bewegen. Terwijl zij deze experimenten uitvoeren en resultaten verzamelen, gebruiken ze het verkregen bewijs om hun doelen te evalueren en vervolgstappen te bepalen waarmee voortgang gemaakt kan worden naar deze doelen.
+Om voortgang te maken naar het *Strategisch Doel* voeren organisaties experimenten uit waarin hypotheses gevormd worden, die bedoeld zijn om de organisatie richting hun huidige *Tussenliggende Doel* te bewegen. Terwijl zij deze experimenten uitvoeren en resultaten verzamelen, gebruiken ze het verkregen bewijs om hun doelen te evalueren en vervolgstappen te bepalen waarmee voortgang gemaakt kan worden naar deze doelen.
 
-![Figuur 1: Behalen van strategische doelen vereist experimenteren, inspecteren, en aanpassen <sup>2</sup>](https://raw.githubusercontent.com/ScrumFacilitators/EBM-Gids-NL/main/resources/Scrumorg-EBMframework-exploop_NL_whitebg.png)
-**Figuur 1: Behalen van strategische doelen vereist experimenteren, inspecteren, en aanpassen <sup>2</sup>**
+![Figuur 1: Behalen van Strategisch Doelen vereist experimenteren, inspecteren, en aanpassen <sup>2</sup>](https://raw.githubusercontent.com/ScrumFacilitators/EBM-Gids-NL/main/resources/Scrumorg-EBMframework-exploop_NL_whitebg.png)
+**Figuur 1: Behalen van Strategisch Doelen vereist experimenteren, inspecteren, en aanpassen <sup>2</sup>**
 
 <sup>1</sup> Voor meer informatie over complexiteit, zie het gedeelte over Scrum Theorie in de Scrum Guide op https://www.scrumguides.org/scrum-guide.html (of download de Nederlandse gids via https://www.scrumguides.org/download.html)
 
@@ -45,11 +45,11 @@ Om voortgang te maken naar het *Strategische Doel* voeren organisaties experimen
 Bij het stellen van doelen moeten organisaties specifieke metingen bepalen die aangeven wanneer het doel is behaald. Doelen, metingen en experimenten moeten transparant worden gemaakt om organisatorisch samenhangende richting te stimuleren.
 
 > *Bijvoorbeeld reageren op een infectie-uitbraak:*
->- *Het Strategische Doel is om de effecten van ziekte uit te roeien, gemeten in het aantal mensen die besmet worden en significant ziek worden. Metingen zijn belangrijk; in dit voorbeeld is het doel gericht op de effecten van de ziekte, en niet op de manier waarop de gewenste impact wordt bereikt. Het doel is bijvoorbeeld niet om een bepaald percentage van de populatie te vaccineren; dat kan een activiteit zijn die nodig is om het Strategische Doel te behalen, maar het is niet zelf het Strategische Doel.*
->- *Een voorbeeld van een Tussenliggend Doel is het succesvol voltooien van een vaccinproef voor deze ziekte. Dit is nog steeds ambitieus en meetbaar, en om dit te behalen moeten mogelijk meerdere activiteiten voltooid worden, maar het is een noodzakelijke stap op de weg naar het behalen van het Strategische Doel.*
+>- *Het Strategisch Doel is om de effecten van ziekte uit te roeien, gemeten in het aantal mensen die besmet worden en significant ziek worden. Metingen zijn belangrijk; in dit voorbeeld is het doel gericht op de effecten van de ziekte, en niet op de manier waarop de gewenste impact wordt bereikt. Het doel is bijvoorbeeld niet om een bepaald percentage van de populatie te vaccineren; dat kan een activiteit zijn die nodig is om het Strategisch Doel te behalen, maar het is niet zelf het Strategisch Doel.*
+>- *Een voorbeeld van een Tussenliggend Doel is het succesvol voltooien van een vaccinproef voor deze ziekte. Dit is nog steeds ambitieus en meetbaar, en om dit te behalen moeten mogelijk meerdere activiteiten voltooid worden, maar het is een noodzakelijke stap op de weg naar het behalen van het Strategisch Doel.*
 >- *Voorbeelden van directe tactische doelen zijn activiteiten zoals het isoleren van symptomen, evalueren van een behandeling, DNA sequencing van een virus of bacterie, enzovoort.*
 
-*Het Strategische Doel* is meestal gericht op het behalen van een hoogst wenselijke maar nog onbehaalde uitkomst voor een specifieke groep mensen die leidt tot verbeterd geluk, veiligheid, zekerheid of welzijn van de ontvangers van een bepaald product of dienst. In EBM noemen we dit *Unrealized Value*: het verschil tussen de gewenste uitkomst en de huidige ervaringe van een begunstigde. *Unrealized Value* wordt hieronder in meer detail beschreven, in het onderdeel *Key Value Areas*.
+*Het Strategisch Doel* is meestal gericht op het behalen van een hoogst wenselijke maar nog onbehaalde uitkomst voor een specifieke groep mensen die leidt tot verbeterd geluk, veiligheid, zekerheid of welzijn van de ontvangers van een bepaald product of dienst. In EBM noemen we dit *Unrealized Value*: het verschil tussen de gewenste uitkomst en de huidige ervaringe van een begunstigde. *Unrealized Value* wordt hieronder in meer detail beschreven, in het onderdeel *Key Value Areas*.
 
 # Begrijpen wat waardevol is
 
@@ -95,7 +95,7 @@ Vragen die organisaties voortdurend moeten heroverwegen voor UV zijn:
 2. Is het de moeite en het risico waard om deze onaangeboorde kansen na te jagen?
 3. Moeten verdere investeringen gedaan worden om extra Unrealized Value te verkrijgen?
 
-Het beschouwen van zowel CV als UV geeft organisaties een manier om huidige zowel als mogelijke toekomstige voordelen af te wegen. Strategische doelen worden gevormd vanuit een tevredenheidskloof en een kans voor een organisatie om UV te verlagen door CV te verhogen.
+Het beschouwen van zowel CV als UV geeft organisaties een manier om huidige zowel als mogelijke toekomstige voordelen af te wegen. Strategisch Doelen worden gevormd vanuit een tevredenheidskloof en een kans voor een organisatie om UV te verlagen door CV te verhogen.
 
 >**Bijvoorbeeld:** *Een product kan een lage CV hebben omdat het een vroege versie is die gebruikt wordt om de markt te testen en een erg hoge UV die aangeeft dat er een groot marktpotentieel is. Het is waarschijnlijk gerechtvaardigd om een poging te doen om CV te verhogen, gegeven de potentiële winst, door te investeren in het product ondanks dat het product momenteel geen hoge CV oplevert. *
 >
@@ -130,11 +130,11 @@ De A2I verbeteren helpt een organisatie om effectiever te worden in het omzetten
 
 De eerste stap in de reis naar een Strategisch Doel is het begrijpen van je Huidge Toestand. Wanneer je focus ligt in het behalen van een Strategisch Doel op het gebied van Unrealized Value (UV), wat meestal het geval is, dan moet je beginnen met het meten van de Current Value (CV) die je product of dienst levert (uiteraard zal de CV van een nieuw product of dienst nog nul zijn). Om te begrijpen waar je moet verbeteren, moet je mogelijk ook begrip hebben van je effectiviteit (A2I) en je reactivermogen (T2M).
 
-De Experimenteerlus (zie Figuur 1) helpt organisaties van hun Huidige Toestand naar hun Eerstvolgende Doel te bewegen, en uiteindelijk het Strategische Doel, door kleine, meetbare stappen te nemen, experimenten genoemd, gebruikmakend van expliciete hypothesen.<sup>3</sup> Deze lus bestaat uit:
+De Experimenteerlus (zie Figuur 1) helpt organisaties van hun Huidige Toestand naar hun Eerstvolgende Doel te bewegen, en uiteindelijk het Strategisch Doel, door kleine, meetbare stappen te nemen, experimenten genoemd, gebruikmakend van expliciete hypothesen.<sup>3</sup> Deze lus bestaat uit:
 - **Het vormen van een hypothese ter verbetering.** Gebaseerd op ervaring vorm je een idee waarmee je verwacht te bewegen in de richting van je Eerstvolgende Doel en je bepaalt hoe je het slagen van dit experiment meetbaar maakt.
 - **Uitvoeren van je experimenten.** Voer de verandering door waarvan je denkt dat het een verbetering is en verzamel gegevens om je hypothese te bevestigen of weerleggen.
 - **Inspecteren van je resultaat.** Heeft de gemaakte verandering de resultaten verbeterd of verslechterd, gebaseerd op de metingen die je hebt? Niet alle veranderingen zijn een verbetering; sommige veranderingen leiden tot verslechtering.
-- **Aanpassen van je doelen of je aanpak aan de hand van wat je hebt geleerd.** Zowel je doelen als je verbeterexperimenten zullen zich waarschijnlijk ontwikkelen naarmate je meer ontdekt over klanten, concurrenten, en de competenties van je organisatie. Doelen kunnen wijzigen door gebeurtenissen van buitenaf, waardoor je  de tactieken om je doelen te bereiken zult moeten heroverwegen en bijstellen. Was het *Tussenliggend Doel* het juiste? Is het *Strategische Doel* nog relevant? Wanneer je het *Tussenliggend Doel* hebt behaald, zul je een nieuw *Tussenliggend Doel* moeten kiezen. Wanneer je het niet hebt behaald, zul je moeten besluiten of je doorzet, stopt, of bijstuurt in een nieuwe richting. Wanneer je *Strateghische Doel* niet langer relevant is, zul je het moeten aanpassen of vervangen.
+- **Aanpassen van je doelen of je aanpak aan de hand van wat je hebt geleerd.** Zowel je doelen als je verbeterexperimenten zullen zich waarschijnlijk ontwikkelen naarmate je meer ontdekt over klanten, concurrenten, en de competenties van je organisatie. Doelen kunnen wijzigen door gebeurtenissen van buitenaf, waardoor je  de tactieken om je doelen te bereiken zult moeten heroverwegen en bijstellen. Was het *Tussenliggend Doel* het juiste? Is het *Strategisch Doel* nog relevant? Wanneer je het *Tussenliggend Doel* hebt behaald, zul je een nieuw *Tussenliggend Doel* moeten kiezen. Wanneer je het niet hebt behaald, zul je moeten besluiten of je doorzet, stopt, of bijstuurt in een nieuwe richting. Wanneer je *Strateghische Doel* niet langer relevant is, zul je het moeten aanpassen of vervangen.
 
 <sup>3</sup> De Experimenteerlus is een variatie op de Shewhart Cycle, die populair is gemaakt door W. Edwards Deming. Deze wordt ook wel de PDCA-cyclus genoemd (Plan-Do-Check-Act); zie https://nl.wikipedia.org/wiki/Kwaliteitscirkel_van_Deming
 
