@@ -122,7 +122,7 @@ Het *doel* van kijken naar de A2I is het maximaliseren van het organisatievermog
 
 De A2I verbeteren helpt een organisatie om effectiever te worden in het omzetten van verricht werk naar geleverde waarde aan klanten of gebruikers door middel van producten of diensten.
 
->**Voorbeeld:** *Een verscheidenheid aan dingen kan een organisatie beletten om nieuwe mogelijkheden en waarde te leveren: te veel tijd kwijt zijn aan rechtzetten van lage productkwaliteit, meerdere productvarianten moeten onderhouden door gebrek aan operationele uitmuntendheid, een gebrek aan gedecentraliseerde besluitvorming, het niet kunnen inhuren en inspireren van getalenteerde en gepassioneerde teamleden, en zo voort.*
+>**Voorbeeld:** *Een verscheidenheid aan dingen kan een organisatie beletten om nieuwe mogelijkheden en waarde te leveren: te veel tijd kwijt zijn aan rechtzetten van lage productkwaliteit, meerdere productvarianten moeten onderhouden door gebrek aan operationele uitmuntendheid, een gebrek aan gedecentraliseerde besluitvorming, het niet kunnen inhuren en inspireren van getalenteerde en gepassioneerde teamleden, enzovoort.*
 >
 >*Wanneer functionaliteit van lage waarde en systemische belemmeringen zich opstapelen, wordt meer en meer tijd en geld verbruikt voor het onderhoud of overwinnen van belemmeringen, waardoor de beschikbare innovatiecapaciteit wordt beperkt. Tevens wordt de A2I verminderd door alles wat voorkomt dat gebruikers of klanten profiteren van innovatie, zoals (nieuwe versies van) producten die moeilijk zijn om in elkaar te zetten of te installeren*
 
@@ -140,11 +140,11 @@ De Experimenteerlus (zie Figuur 1) helpt organisaties van hun Huidige Toestand n
 
 ## Hypothesen, Experimenten, Features en Requirements
 
-*Features* zijn “kenmerkende eigenschappen van een product”<sup>4</sup>, terwijl een *requirement* praktisch gezien iets is wat iemand wenselijk vindt in een product. Een *feature beschrijving* is een voorbeeld van een *requirement*.
+*Features* zijn “kenmerkende eigenschappen van een product”<sup>4</sup>, terwijl een *requirement* praktisch gezien iets is wat iemand wenselijk vindt in een product. Een *feature-beschrijving* is een voorbeeld van een *requirement*.
 
-Organisaties kunnen veel geld besteden aan het implementeren van features en andere requirements in producten, om er vervolens achter te komen dat klanten een andere mening hebben over de toegevoegde waarde; overtuigingen over waarde zijn slechts aannames totdat deze zijn gevalideerd door klanten. Hiervoor is het gebruik van hypothesen en experimenten nuttig.
+Organisaties kunnen veel geld besteden aan het implementeren van features en andere requirements in producten, om er vervolgens achter te komen dat klanten een andere mening hebben over de toegevoegde waarde; overtuigingen over waarde zijn slechts aannames totdat deze zijn gevalideerd door klanten. Hiervoor is het gebruik van hypothesen en experimenten nuttig.
 
-In eenvoudige termen, is een *hypothese* een voorgestelde verklaring voor een bepaalde observatie, die nog niet bewezen (of ontkracht) is. In de context van requirements, is het een geloof dat *iets doen zal leiden tot iets anders*, zoals *opleveren van feature X zal leiden tot uitkomst Y*. Een experiment is een test die is ontworpen om een bepaalde hypothese te bewijzen of verwerpen.
+In eenvoudige termen is een *hypothese* een voorgestelde verklaring voor een bepaalde observatie, die nog niet bewezen (of ontkracht) is. In de context van requirements, is het een geloof dat *iets doen zal leiden tot iets anders*, zoals *opleveren van feature X zal leiden tot uitkomst Y*. Een experiment is een test die is ontworpen om een bepaalde hypothese te bewijzen of verwerpen.
 
 Elke feature en iedere requirement is eigenlijk een hypothese over waarde. Een van de doelen van een empirische aanpak is om deze hypothesen expliciet te maken en doelbewust experimenten te ontwerpen die de waarde van de features en requirements expliciet testen. Het is niet altijd nodig om de volledige feature of requirement te bouwen om te bepalen of deze waardevol is; het kan al genoeg zijn voor een team om eenvoudigweg voldoende te bouwen om de kritieke aannames te valideren, die de waarde bewijzen of verwerpen.
 
@@ -154,7 +154,7 @@ Het expliciet vormen van hypothesen, het meten van resultaten, en het inspectere
 
 # Eindnoot
 
-Evidence Based-Management is gratis en wordt aangeboden in deze Gids. Het implementeren van losse delen van EBM is mogelijk, maar het resultaat daarvan is niet Evidence Based Management.
+Evidence Based-Management is gratis en wordt aangeboden in deze gids. Het implementeren van losse delen van EBM is mogelijk, maar het resultaat daarvan is niet Evidence Based Management.
 
 # Erkenningen
 
