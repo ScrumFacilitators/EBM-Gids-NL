@@ -36,7 +36,7 @@ Om voortgang te maken naar het *Strategische Doel* voeren organisaties experimen
 ![Figuur 1: Behalen van strategische doelen vereist experimenteren, inspecteren, en aanpassen <sup>2</sup>](https://raw.githubusercontent.com/ScrumFacilitators/EBM-Gids-NL/main/resources/Scrumorg-EBMframework-exploop_NL_whitebg.png)
 **Figuur 1: Behalen van strategische doelen vereist experimenteren, inspecteren, en aanpassen <sup>2</sup>**
 
-<sup>1</sup> Voor meer informatie over complexiteit, zie het gedeelte over Scrum Theorie in de Scrum Guide op https://www.scrumguides.org/scrum-guide.html (of download de nederlandse gids via https://www.scrumguides.org/download.html)
+<sup>1</sup> Voor meer informatie over complexiteit, zie het gedeelte over Scrum Theorie in de Scrum Guide op https://www.scrumguides.org/scrum-guide.html (of download de Nederlandse gids via https://www.scrumguides.org/download.html)
 
 <sup>2</sup> Figuur gebaseerd op Mike Rother’s Improvement Kata (http://www.personal.umich.edu/~mrother/The_Improvement_Kata.html)
 
