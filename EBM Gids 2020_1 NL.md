@@ -6,7 +6,7 @@ Scrum.org
 
 September 2020
 
-*Vertaling: Sjoerd Kranendonk voor Scrum Facilitators, 2021, Versie 0.1*
+*Vertaling: Sjoerd Kranendonk voor Scrum Facilitators, 2021, Versie 0.2*
 
 # Doel van de Evidence-Based Management gids
 
@@ -174,17 +174,15 @@ Deze gids is een vertaling van de oorspronkelijke Engelse versie, die beschikbaa
 - Feedback, suggesties & verbeteringen: https://github.com/ScrumFacilitators/EBM-Gids-NL/issues
 
 ### Overzicht van wijzigingen
-Dit is de eerste vertaling (versie 0.1), en er zijn dus nog geen wijzigingen ten opzichte van eerdere versies.
+Dit is de eerste vertaling (versie 0.2), en er zijn dus nog geen wijzigingen ten opzichte van eerdere versies.
 
-# Appendix: Voorbeeld Key Value Measures
-
-*Zie bestand (EBM Gids 2020_1_KVMs.md) voor de volledige appendix met voorbeeld-KVM's*
+# Appendix: voorbeeld-Key Value Measures
 
 Om zo goed mogelijk aanpasbaar te zijn, definieert de EBM geen specifieke Key Value Measures (KVM's). De onderstaande KVM's dienen als inspiratie om een organisatie te kunnen helpen om de huidige situatie, de gewenste toekomstige situatie en de factoren die het verbetervermogen beïnvloeden, beter te begrijpen.
 
 ## Current Value (CV)
 
-| KVM Meetwaarde: ||
+| KVM | Meetwaarde: |
 |-|-|
 | Omzet per medewerker | De verhouding (bruto omzet / aantal medewerkers) is een maatstaf voor het concurrentie vermogen binnen de sector. De verschillen tussen sectoren kunnen significant zijn. |
 | Kostenpercentage | De totale opbrengsten van een product of dienst gedeeld door de totale kosten, inclusief operationele kosten. |
@@ -194,7 +192,7 @@ Om zo goed mogelijk aanpasbaar te zijn, definieert de EBM geen specifieke Key Va
 
 ## Unrealized Value (UV)
 
-| KVM Meetwaarde: ||
+| KVM | Meetwaarde: |
 |-|-|
 | Marktpotentie | Dit is het aandeel dat een aanbieder van een goed of dienst (nog) niet heeft van de totale omzet op de betreffende markt in een bepaalde periode; dit is potentieel marktaandeel dat verkregen kan worden mits de klantbehoefte beter wordt vervuld. |
 | De kloof in de klant- of gebruikerstevredenheid | Deze wordt uitgedrukt in het verschil tussen de ervaring die de klant wenst en datgene wat hij/zij ondervindt. |
@@ -202,7 +200,7 @@ Om zo goed mogelijk aanpasbaar te zijn, definieert de EBM geen specifieke Key Va
 
 ## Time-to-Market (T2M)
 
-| KVM Meetwaarde: ||
+| KVM | Meetwaarde: |
 |-|-|
 | Bouw- en integratiefrequentie | Het aantal keren per tijdseenheid dat software geïntegreerd, gebouwd en getest wordt. Indien een team het product regelmatig of voortdurend naar de markt brengt is deze laatste indicator belangrijker. |
 | Release-frequentie | Het aantal keren per tijdseenheid (b.v. doorlopend, dagelijks, wekelijks, maandelijks, per kwartaal etc.) dat een product naar de markt wordt gebracht. Dit dient als maatstaf voor de tijd die nodig is om de eindgebruiker te voorzien van nieuwe en concurrerende producten. |
@@ -218,7 +216,7 @@ Om zo goed mogelijk aanpasbaar te zijn, definieert de EBM geen specifieke Key Va
 
 ## Ability to Innovate (A2I)
 
-| KVM Meetwaarde: ||
+| KVM | Meetwaarde: |
 |-|-|
 | Innovatie ratio | Het percentage van de capaciteit, tijd of budget wat gespendeerd wordt aan het leveren van nieuwe functionaliteit, gedeeld door het totaal. Dit getal geeft inzicht in het vermogen van de organisatie om nieuwe functionaliteit aan een product toe te voegen. |
 | Defecten-trends | Een meeting van de toe- of afname van defecten sinds de laatste meeting. Een defect is alles wat de waarde van het product verminderd voor een klant, gebruiker of de organisatie zelf. Defects zijn over het algemeen zaken die niet werken zoals bedoeld. |
