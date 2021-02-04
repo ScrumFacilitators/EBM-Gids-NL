@@ -186,8 +186,8 @@ Om zo goed mogelijk aanpasbaar te zijn, definieert de EBM geen specifieke Key Va
 |-|-|
 | Omzet per medewerker | De verhouding (bruto omzet / aantal medewerkers) is een maatstaf voor het concurrentie vermogen binnen de sector. De verschillen tussen sectoren kunnen significant zijn. |
 | Kostenpercentage | De totale opbrengsten van een product of dienst gedeeld door de totale kosten, inclusief operationele kosten. |
-| Medewerkertevredenheid | Een indicatie van het sentiment bij de medewerkers, hun enthusiasme en energie. |
-| Klanttevredenheid | Een indicate die beschrijft hoe gelukkig de klant wordt van het product, en de interactie ermee. |
+| Medewerkertevredenheid | Een indicatie van het sentiment bij de medewerkers, hun enthousiasme en energie. |
+| Klanttevredenheid | Een indicatie die beschrijft hoe gelukkig de klant wordt van het product, en de interactie ermee. |
 | Productgebruik | De frequentie en/of intensiteit waarmee gebruikers interacteren met het product. Dit is een proxy voor de bruikbaarheid van het product en of het daadwerkelijk het probleem van de klant oplost. |
 
 ## Unrealized Value (UV)
@@ -204,7 +204,7 @@ Om zo goed mogelijk aanpasbaar te zijn, definieert de EBM geen specifieke Key Va
 |-|-|
 | Bouw- en integratiefrequentie | Het aantal keren per tijdseenheid dat software geïntegreerd, gebouwd en getest wordt. Indien een team het product regelmatig of voortdurend naar de markt brengt is deze laatste indicator belangrijker. |
 | Release-frequentie | Het aantal keren per tijdseenheid (b.v. doorlopend, dagelijks, wekelijks, maandelijks, per kwartaal etc.) dat een product naar de markt wordt gebracht. Dit dient als maatstaf voor de tijd die nodig is om de eindgebruiker te voorzien van nieuwe en concurrerende producten. |
-| Release-stabilisatieperiode	 | De bestede tijd aan herstellen van problemen, tussen het moment waarop de developers aangeven dat het product klaar is om gereleased te worden en het moment dat het daadwerkelijk vrijgegeven kan worden. Ontwerp, de kwaliteit van het product, alsmede de robuustheid van het ontwikkelprocess hebben hier directe invloed op. |
+| Release-stabilisatieperiode	 | De bestede tijd aan herstellen van problemen, tussen het moment waarop de developers aangeven dat het product klaar is om gereleased te worden en het moment dat het daadwerkelijk vrijgegeven kan worden. Ontwerp, de kwaliteit van het product, alsmede de robuustheid van het ontwikkelproces hebben hier directe invloed op. |
 | Gemiddelde Reparatietijd | De gemiddelde periode die verstrijkt tussen het moment dat een probleem is ontdekt en dat het is opgelost. De gemiddelde reparatietijd kan gebruikt worden om de efficiency van de organisatie te meten met betrekking tot het oplossen van fouten.	|
 | Doorlooptijd | De tussen het moment dat men aan een release begint te werken, tot het moment waarop deze daadwerkelijk wordt vrijgegeven. Deze meting geeft weer hoe snel een organisatie haar klant kan bereiken.	|
 | Aanlooptijd | De periode tussen het moment dat een nieuw idee of hypothese is geformuleerd en het moment dat het in de handen van de gebruiker beland. Deze metriek is een proxy voor de klant tevredenheid.	|
