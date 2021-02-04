@@ -18,7 +18,7 @@
 | Klanttevredenheid | Customer Satisfaction||
 | Een indicatie die beschrijft hoe gelukkig de klant wordt van het product, en de interactie ermee. | Some form of sentiment analysis to help gauge customer engagement and happiness with the product. ||
 | Productgebruik| Customer Usage Index ||
-| De frequentie en/of intensiteit waarmee gebruikers interacteren met het product. Dit is een proxy voor de bruikbaarheid van het product en of het daadwerkelijk het probleem van de klant oplost. | Measurement of usage, by feature, to help infer the degree to which customers find the product useful and whether actual usage meets expectations on how long users should be taking with a feature.||
+| De frequentie en/of intensiteit waarmee gebruikers interacteren met het product. Dit is een proxy voor de bruikbaarheid van het product en of het daadwerkelijk het probleem van de klant oplost. | Measurement of usage, by feature, to help infer the degree to which customers find the product useful and whether actual usage meets expectations on how long users should be taking with a feature.| Sjoerd: 'waarmee gebruikers interacteren met het product' loopt niet lekker. voelt niet echt goed nederlands. Nog geen directe suggestie maar graag herschrijven. |
 
 ## Unrealized Value (UV)
 | Nederlands | English | opmerkingen |
