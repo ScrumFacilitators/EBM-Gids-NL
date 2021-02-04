@@ -14,11 +14,11 @@
 | Kostenpercentage | Product Cost Ratio||
 | De totale opbrengsten van een product of dienst gedeeld door de totale kosten, inclusief operationele kosten. | Total expenses and costs for the product(s)/system(s) being measured, including operational costs compared to revenue.||
 | Medewerkertevredenheid | Employee Satisfaction||
-| Een indicatie van het sentiment bij de medewerkers, hun enthusiasme en energie. | Some form of sentiment analysis to help gauge employee engagement, energy, and enthusiasm.||
+| Een indicatie van het sentiment bij de medewerkers, hun enthousiasme en energie. | Some form of sentiment analysis to help gauge employee engagement, energy, and enthusiasm.||
 | Klanttevredenheid | Customer Satisfaction||
-| Een indicate die beschrijft hoe gelukkig de klant wordt van het product, en de interactie ermee. | Some form of sentiment analysis to help gauge customer engagement and happiness with the product. ||
+| Een indicatie die beschrijft hoe gelukkig de klant wordt van het product, en de interactie ermee. | Some form of sentiment analysis to help gauge customer engagement and happiness with the product. ||
 | Productgebruik| Customer Usage Index ||
-| De frequentie en/of intensie waarmee gebruikers interacteren met het product. Dit is een proxy voor de bruikbaarheid van het product en of het daadwerkelijk het probleem van de klant oplost. | Measurement of usage, by feature, to help infer the degree to which customers find the product useful and whether actual usage meets expectations on how long users should be taking with a feature.||
+| De frequentie en/of intensiteit waarmee gebruikers interacteren met het product. Dit is een proxy voor de bruikbaarheid van het product en of het daadwerkelijk het probleem van de klant oplost. | Measurement of usage, by feature, to help infer the degree to which customers find the product useful and whether actual usage meets expectations on how long users should be taking with a feature.||
 
 ## Unrealized Value (UV)
 | Nederlands | English | opmerkingen |

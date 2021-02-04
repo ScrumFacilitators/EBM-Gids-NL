@@ -188,7 +188,7 @@ Om zo goed mogelijk aanpasbaar te zijn, definieert de EBM geen specifieke Key Va
 | Kostenpercentage | De totale opbrengsten van een product of dienst gedeeld door de totale kosten, inclusief operationele kosten. |
 | Medewerkertevredenheid | Een indicatie van het sentiment bij de medewerkers, hun enthusiasme en energie. |
 | Klanttevredenheid | Een indicate die beschrijft hoe gelukkig de klant wordt van het product, en de interactie ermee. |
-| Productgebruik | De frequentie en/of intensie waarmee gebruikers interacteren met het product. Dit is een proxy voor de bruikbaarheid van het product en of het daadwerkelijk het probleem van de klant oplost. |
+| Productgebruik | De frequentie en/of intensiteit waarmee gebruikers interacteren met het product. Dit is een proxy voor de bruikbaarheid van het product en of het daadwerkelijk het probleem van de klant oplost. |
 
 ## Unrealized Value (UV)
 
