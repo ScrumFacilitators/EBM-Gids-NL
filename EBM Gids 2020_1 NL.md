@@ -138,7 +138,7 @@ De Experimenteerlus (zie Figuur 1) helpt organisaties van hun Huidige Toestand n
 
 <sup>3</sup> De Experimenteerlus is een variatie op de Shewhart Cycle, die populair is gemaakt door W. Edwards Deming. Deze wordt ook wel de PDCA-cyclus genoemd (Plan-Do-Check-Act); zie https://nl.wikipedia.org/wiki/Kwaliteitscirkel_van_Deming
 
-## Hypothesen, Experimenten, Features en Requirements
+## Hypothesen, experimenten, features en requirements
 
 *Features* zijn “kenmerkende eigenschappen van een product”<sup>4</sup>, terwijl een *requirement* praktisch gezien iets is wat iemand wenselijk vindt in een product. Een *feature-beschrijving* is een voorbeeld van een *requirement*.
 
@@ -207,11 +207,11 @@ Om zo goed mogelijk aanpasbaar te zijn, definieert de EBM geen specifieke Key Va
 | Release-stabilisatieperiode	 | De bestede tijd aan herstellen van problemen, tussen het moment waarop de developers aangeven dat het product klaar is om gereleased te worden en het moment dat het daadwerkelijk vrijgegeven kan worden. Ontwerp, de kwaliteit van het product, alsmede de robuustheid van het ontwikkelproces hebben hier directe invloed op. |
 | Gemiddelde Reparatietijd | De gemiddelde periode die verstrijkt tussen het moment dat een probleem is ontdekt en dat het is opgelost. De gemiddelde reparatietijd kan gebruikt worden om de efficiency van de organisatie te meten met betrekking tot het oplossen van fouten.	|
 | Doorlooptijd | De tussen het moment dat men aan een release begint te werken, tot het moment waarop deze daadwerkelijk wordt vrijgegeven. Deze meting geeft weer hoe snel een organisatie haar klant kan bereiken.	|
-| Aanlooptijd | De periode tussen het moment dat een nieuw idee of hypothese is geformuleerd en het moment dat het in de handen van de gebruiker beland. Deze metriek is een proxy voor de klant tevredenheid.	|
+| Aanlooptijd | De periode tussen het moment dat een nieuw idee of hypothese is geformuleerd en het moment dat het in de handen van de gebruiker beland. Deze metriek is een proxy voor de klanttevredenheid.	|
 | Aanlooptijd voor codewijzigingen | De periode tussen het opslaan van de code in het versie-managementsysteem en deze code succesvol werkend hebben op de productie omgeving. Voor meer informatie zie het DORA 2019 rapport (engels). |	Uitrolfrequentie | Het aantal keer per periode dat een organisatie een nieuwe versie van het product vrijgeeft. Zie ook het DORA 2019 rapport (engels).	|
 | Hersteltijd | De periode tussen het moment dat een service een storing ondergaat en het moment dat het hersteld is. Zie ook het DORA 2019 rapport (engels).|
 | Leerperiode | De tijd benodigd om een idee uit te werken, schetsen, bouwen, aan een klant te leveren en te kunnen leren van hun interactie ermee.	|
-| Belemmeringsperiode | De gemiddelde tijd tussen het melden van een belemmering en het oplossen ervan. Dit is een proxy voor medewerker tevredeheid en aanlooptijd. |
+| Belemmeringsperiode | De gemiddelde tijd tussen het melden van een belemmering en het oplossen ervan. Dit is een proxy voor medewerkertevredenheid en aanlooptijd. |
 | Omschakeltijd | Een daadwerkelijke maatstaf van de wendbaarheid van de gehele organisatie. Het betreft de periode tussen het ontvangen van feedback of nieuwe informatie en het moment dat de organisatie daarop reageert; bijvoorbeeld hoe snel de organisatie kan reageren op een concurrent die een nieuwe markt-veroverende feature heeft uitgebracht, door in hun eigen product vergelijkbare of overtreffende mogelijkheden in te bouwen die de klantervaring meetbaar verbeteren.
 
 ## Ability to Innovate (A2I)
