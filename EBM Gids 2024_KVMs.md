@@ -54,7 +54,7 @@
 |Hersteltijd|Time to Restore Service
 |De periode tussen het moment dat een service een storing ondergaat en het moment dat het hersteld is.  Zie ook het DORA 2019 rapport (engels).|The amount of time between the start of a service outage and the restoration of full availability of the service. For more information, see the DORA 2019 report.
 |Leerperiode|Time-to-Learn
-|De tijd benodigd om een idee uit te werken, schetsen, bouwen, aan een klant te leveren en te kunnen leren van hun interactie ermee.|The total time needed to sketch an idea or improvement, build it, deliver it to users, and learn from their usage.|mogelijk eenvoudiger: "en te kunnen leren van het gebruik er van"|
+|De tijd benodigd om een idee uit te werken, schetsen, bouwen, aan een klant te leveren en te kunnen leren van hun interactie ermee.|The total time needed to sketch an idea or improvement, build it, deliver it to users, and learn from their usage.|mogelijk eenvoudiger en duidelijker taalgebruik: "en te leren van het gebruik"|
 |Belemmeringsperiode|Time to remove Impediment
 |De gemiddelde tijd tussen het melden van een belemmering en het oplossen ervan. Dit is een proxy voor medewerkertevredenheid en aanlooptijd.|The average amount of time from when an impediment is raised until when it is resolved. It is a contributing factor to lead time and employee satisfaction.
 |Omschakeltijd|Time to Pivot
@@ -64,19 +64,19 @@
 | Nederlands | English | opmerkingen |
 | - | - | - |
 |KVM Meetwaarde:| KVM Measuring:||
-|...|Employee Engagement| toegevoegd 2024 ~SK|
-|...|A measure of the degree to which employees are aligned with and bought- in to the organization’s goals.|toegevoegd 2024 ~SK|
-|Innovatieratio|Innovation Rate
+| Werknemerbetrokkenheid | Employee Engagement | toegevoegd 2024 ~SK|
+| De mate waarin werknemers zijn aangesloten op en zich betrokken voelen bij de doelen van de organisatie. |A measure of the degree to which employees are aligned with and bought-in to the organization’s goals.| toegevoegd 2024 ~SK |
+|Innovatieratio|Innovation Rate||
 |Het percentage van de capaciteit, tijd of budget wat gespendeerd wordt aan het leveren van nieuwe functionaliteit, gedeeld door het totaal. Dit getal geeft inzicht in het vermogen van de organisatie om nieuwe functionaliteit aan een product toe te voegen. |The percentage of effort or cost spent on new product capabilities, divided by total product effort or cost. This provides insight into the capacity of the organization to deliver new product capabilities.| Ik neig er naar om capacity anders te vertalen: het vermogen om te reageren op nieuwe klant wensen, maar dat is ver bij de bron vandaan.|
-|Defecten-trends|Defect Trends
-|Een meeting van de toe- of afname van defecten sinds de laatste meeting. Een defect is alles wat de waarde van het product verminderd voor een klant, gebruiker of de organisatie zelf. Defects zijn over het algemeen zaken die niet werken zoals bedoeld. | Measurement of change in defects since last measurement. A defect is anything that reduces the value of the product to a customer, user, or to the organization itself. Defects are generally things that don’t work as intended.| Engelse tekst is erg zwak en schrijft meer over defects dan over trends en het effect daarvan op waarde. Defect trend is the rolling average of discovered bugs vs resolved ones. A growing trend indicates that the product is becomming inherently unstable. Willen we van de engelse tekst afwijken?|
-|Focustijd|On-Product Index| Het is eigenlijk de tijd dat je gefocussed bent, past mooi met de Scrum Values, of toch "op-produkt"
-|Het percentage van de tijd dat teams daadwerkelijk aan het product kunnen werken.|The percentage of time teams spend working on product and value.| and value.....?|
+|Defecten-trends|Defect Trends||
+|Een meting van de toe- of afname van defecten sinds de laatste meeting. Een defect is alles wat de waarde van het product verminderd voor een klant, gebruiker of de organisatie zelf. defecten zijn over het algemeen zaken die niet werken zoals bedoeld. | Measurement of change in defects since last measurement. A defect is anything that reduces the value of the product to a customer, user, or to the organization itself. Defects are generally things that don’t work as intended.| Engelse tekst is erg zwak en schrijft meer over defects dan over trends en het effect daarvan op waarde. Defect trend is the rolling average of discovered bugs vs resolved ones. A growing trend indicates that the product is becoming inherently unstable. Willen we van de engelse tekst afwijken? 2021|
+|Focustijd|On-Product Index| Het is eigenlijk de tijd dat je gefocussed bent, past mooi met de Scrum Values, of toch "op-produkt"|
+|Het percentage van de tijd dat teams daadwerkelijk aan het product en waarde kunnen werken.|The percentage of time teams spend working on product and value.| |
 |Aantal geïnstalleerde versies|Installed Version Index| Index is coëfficiënt of index in deze context, geïnstalleerde zou ook actieve of ondersteunde kunnen zijn|
 |Het aantal versies van het product dat op dit moment wordt ondersteund. Dit getal reflecteert de capaciteit die de organisatie gebruikt om oudere versies van de software te ondersteunen. |The number of versions of a product that are currently being supported. This reflects the effort the organization spends supporting and maintaining older versions of software.||
 |Technische schuld|Technical Debt||
 |Een concept in software ontwikkeling dat de extra ontwikkelings- en testwerkzaamheden weerspiegelt die ontstaan wanneer "snelle" oplossingen resulteren in een later herstelwerk. Het creëert een ongewenste impact op het leveren van waarde en een vermijdbare toename van herstelwerk en risico.|A concept in programming that reflects the extra development and testing work that arises when “quick and dirty” solutions result in later remediation. It creates an undesirable impact on the delivery of value and an avoidable increase in waste and risk.| It also is a result of an emergent understanding of what is required, one cannot know upfront what needs to be architectured.
-|Aantal productiefouten|Production Incident Count
+|Aantal productiefouten|Production Incident Count||
 |Het aantal keren dat het Development Team in een bepaalde periode werd onderbroken om een probleem in een geïnstalleerd product op te lossen. Het aantal en de frequentie van productie-incidenten kan helpen om de stabiliteit van het product aan te geven.|The number of times in a given period that the Development Team was interrupted to fix a problem in an installed product. The number and frequency of Production Incidents can help indicate the stability of the product.
 |Aantal actieve produkt (broncode) varianten|Active Product (Code) Branches| is het nodig om hier code bij te zetten?|
 |Het aantal verschillende versies (of varianten) van een product of dienst. Geeft inzicht in de potentiële impact van verandering en de daaruit voortvloeiende complexiteit van het werk.|The number of different versions (or variants) of a product or service. Provides insight into the potential impact of change and the resulting complexity of work.||
