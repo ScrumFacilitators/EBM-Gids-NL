@@ -2,7 +2,7 @@
 
 | Nederlands | English | opmerkingen |
 | - | - | - |
-| Appendix: voorbeeld-Key Value Measures| Appendix: Example Key Value Measures | |
+| Appendix: voorbeeld-Key Value Measures| Appendix: Example Key Value Measures | Onderstaand is onveranderd tenzij vermeld in opmerkingen! 2024 ~SK |
 | Om zo goed mogelijk aanpasbaar te zijn, definieert de EBM geen specifieke *Key Value Measures* (KVM's). De onderstaande KVM's dienen als inspiratie om een organisatie te kunnen helpen om de huidige situatie, de gewenste toekomstige situatie en de factoren die het verbetervermogen beïnvloeden, beter te begrijpen. | To encourage adaptability, EBM defines no specific Key Value Measures (KVMs). KVMs listed below are presented to show the kinds of measures that might help an organization to understand its current state, desired future state, and factors that influence its ability to improve.| Suggestie van dennis: vertaal adaptability directer met aanpasbaar, en suggestie om ability to improve te vertalen met aanpassingsvermogen. Die laatste heb ik nu alvast aangepast naar verbetervermogen. het is nl niet ability to adapt. De eerst zin moet even met iets meer aandacht herschreven worden. ~SK |
 
 ## Current Value (CV)
@@ -24,8 +24,8 @@
 | Nederlands | English | opmerkingen |
 | - | - | - |
 |KVM Meetwaarde: |Measuring:||
-|Marktpotentie |Market Share|bewuste afwijking, wegens zoeken naar de gap en mogelijke verwarring wanneer dit afwijkt van de gangbare interpretatie van 'marktaandeel'.|
-| Dit is het aandeel dat een aanbieder van een goed of dienst (nog) niet heeft van de totale omzet op de betreffende markt in een bepaalde periode; dit is potentieel marktaandeel dat verkregen kan worden mits de klantbehoefte beter wordt vervuld. |The relative percentage of the market not controlled by the product; the potential market share that the product might achieve if it better met customer needs.||
+| Potentieel Marktaandeel | Potential Market Share| Al vertaald 2024 ~SK |
+| Het potentieel marktaandeel dat verkregen kan worden mits de klantbehoefte beter wordt vervuld. |The potential market share that the product might achieve if it better met customer needs.||
 |De kloof in de klant- of gebruikerstevredenheid|Customer or User Satisfaction Gap||
 |Deze wordt uitgedrukt in het verschil tussen de ervaring die de klant wenst en datgene wat hij/zij ondervindt.|The difference between a customer or user’s desired experience and their current experience.||
 |Gewenste klantervaring of -tevredenheid|Desired Customer Experience or satisfaction||
@@ -64,6 +64,8 @@
 | Nederlands | English | opmerkingen |
 | - | - | - |
 |KVM Meetwaarde:| KVM Measuring:||
+|...|Employee Engagement| toegevoegd 2024 ~SK|
+|...|A measure of the degree to which employees are aligned with and bought- in to the organization’s goals.|toegevoegd 2024 ~SK|
 |Innovatieratio|Innovation Rate
 |Het percentage van de capaciteit, tijd of budget wat gespendeerd wordt aan het leveren van nieuwe functionaliteit, gedeeld door het totaal. Dit getal geeft inzicht in het vermogen van de organisatie om nieuwe functionaliteit aan een product toe te voegen. |The percentage of effort or cost spent on new product capabilities, divided by total product effort or cost. This provides insight into the capacity of the organization to deliver new product capabilities.| Ik neig er naar om capacity anders te vertalen: het vermogen om te reageren op nieuwe klant wensen, maar dat is ver bij de bron vandaan.|
 |Defecten-trends|Defect Trends
