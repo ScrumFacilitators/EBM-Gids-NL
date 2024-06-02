@@ -4,7 +4,7 @@
 | - | - | - |
 | Scrum.org | Scrum.org | ALGEMENE OPMERKING: Waar vertaling nog gedaan moet worden, staan ... in de Nederlandse kolom! Als deze er niet staan is het al vertaald. |
 | # De Evidence-Based Management gids|The Evidence-Based Management Guide | H1 - EBM niet vertalen! |
-| ## ... | Improving Value Delivery under Conditions of Uncertainty | H2 |
+| Betere waardelevering onder onzekere omstandigheden | Improving Value Delivery under Conditions of Uncertainty | H2 |
 | Mei 2024 | May 2024 | |
 | © 2024 Scrum.org | © 2024 Scrum.org | |
 | *Vertaling: Sjoerd Kranendonk voor Scrum Facilitators, 2024, Versie 1* | | Hoe zetten we de vertaling credits er in? vorige gids had ik hier een verwijzing naar scrumfacilitators ingefietst. Zie voorbeeld. || | This publication is offered for license under the Attribution Share-Alike license of Creative Commons, accessible at http://creativecommons.org/licenses/by-sa/4.0/legalcode and also described in summary form at http://creativecommons.org/licenses/by-sa/4.0/. By utilizing this EBM Guide, you acknowledge and agree that you have read and agree to be bound by the terms of the Attribution Share-Alike license of Creative Commons. | mogelijk onvertaald laten? ~SK|
