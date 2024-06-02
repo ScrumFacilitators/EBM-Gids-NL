@@ -73,7 +73,7 @@
 | - **Het vormen van een hypothese ter verbetering.** Gebaseerd op ervaring vorm je een idee waarmee je verwacht te bewegen in de richting van je Directe Tactische Doel en je bepaalt hoe je het slagen van dit experiment meetbaar maakt. | - **Forming a hypothesis for improvement.** Based on experience, form an idea of something you think will help you move toward your Imediate Tactical Goal, and decide how you will know whether this experiment succeeded based on measurement. |Al vertaald 2024 ~SK|
 | - **Uitvoeren van je experimenten.** Voer de verandering door waarvan je denkt dat het een verbetering is en verzamel gegevens om je hypothese te bevestigen of weerleggen. | - **Running your experiments.** Make the change you think will help you to improve, and gather data to support or refute your hypothesis. | onveranderd 2024 |
 | - **Inspecteren van je resultaat.** Heeft de gemaakte verandering de resultaten verbeterd of verslechterd, gebaseerd op de metingen die je hebt? Niet alle veranderingen zijn een verbetering; sommige veranderingen leiden tot verslechtering.  | - **Inspecting your results.** Did the change you made improve your results based on the measurements you have made? Not all changes do; some changes actually make things worse. | onveranderd 2024 |
-| - **Aanpassen van je doelen of je aanpak aan de hand van wat je hebt geleerd.** Zowel je doelen als je verbeterexperimenten zullen zich waarschijnlijk ontwikkelen naarmate je meer ontdekt over klanten, concurrenten, en de competenties van je organisatie. Doelen kunnen wijzigen door gebeurtenissen van buitenaf, waardoor je  de tactieken om je doelen te bereiken zult moeten heroverwegen en bijstellen, bijvoorbeeld: <br> -  Was het Directe Tactische Doel het juiste? <br> - ... <br> - ... <br> - ... | - **Adapting your goals or your approach based on what you learned.** Both your goals and your improvement experiments will likely evolve as you learn more about customers, competitors, and your organization’s capabilities. Goals can change because of outside events, and your tactics to reach your goals may need to be reconsidered and revised, for example: <br> - Was the Immediate Tactical Goal the right goal? <br> - Are the Intermediate and Strategic Goals still relevant or do they need to be adapted? <br> - If you failed to achieve the Immediate Tactical Goal but you think it is still important to achieve, how might you do better next time? <br> - If you achieved your Intermediate or Strategic Goals you will need to formulate new goals. | veranderd 2024 ~SK |
+| - **Aanpassen van je doelen of je aanpak aan de hand van wat je hebt geleerd.** Zowel je doelen als je verbeterexperimenten zullen zich waarschijnlijk ontwikkelen naarmate je meer ontdekt over klanten, concurrenten en de competenties van je organisatie. Doelen kunnen wijzigen door gebeurtenissen van buitenaf, waardoor je  de tactieken om je doelen te bereiken zult moeten heroverwegen en bijstellen, bijvoorbeeld: <br> -  Was het Directe Tactische Doel het juiste? <br> - ... <br> - ... <br> - ... | - **Adapting your goals or your approach based on what you learned.** Both your goals and your improvement experiments will likely evolve as you learn more about customers, competitors, and your organization’s capabilities. Goals can change because of outside events, and your tactics to reach your goals may need to be reconsidered and revised, for example: <br> - Was the Immediate Tactical Goal the right goal? <br> - Are the Intermediate and Strategic Goals still relevant or do they need to be adapted? <br> - If you failed to achieve the Immediate Tactical Goal but you think it is still important to achieve, how might you do better next time? <br> - If you achieved your Intermediate or Strategic Goals you will need to formulate new goals. | veranderd 2024 ~SK |
 | <sup>3</sup> De Experimenteerlus is een variatie op de Shewhart Cycle, die populair is gemaakt door W. Edwards Deming. Deze wordt ook wel de PDCA-cyclus genoemd (Plan-Do-Check-Act); zie https://nl.wikipedia.org/wiki/Kwaliteitscirkel_van_Deming | 3. The Experiment Loop is a variation on the Shewhart Cycle, popularized by W. Edwards Deming, also sometimes called the PDCA (Plan-Do-Check-Act) cycle; see https://en.wikipedia.org/wiki/PDCA. | Noot: nederlandse wikipagina toegevoegd ipv engels. Plan-Do-Check-Act is ook daar onvertaald. <br><br> ONVERANDERD 2024 ~SK |
 
 ## Hypothesen, experimenten, features en requirements
@@ -109,7 +109,7 @@
 | 3. Hoe tevreden zijn de investeerders en andere belanghebbenden op dit moment? Neemt hun tevredenheid toe, of juist af? | 3. How happy are your investors and other stakeholders today? Is their happiness improving or declining? ||
 | Rekening houden met CV helpt een organisatie om de waarde te begrijpen die hun klanten of gebruikers *op dit moment* ervaren. | Considering CV helps an organization understand the value that their customers or users experience *today*. ||
 | > **Voorbeeld:** Terwijl winst, een manier om tevredenheid van investeerders te meten, je de economische impact geeft van de waarde die je wilt leveren, zal weten hoe tevreden klanten zijn met hun aankoop je meer inzicht geven over wat je kunt verbeteren om deze klanten te behouden. Wanneer je klanten weinig alternatieven hebben voor jouw product, kun je hoge winst behalen, zelfs met een lage klanttevredenheid. Rekening houden met verschillende invalshoeken van CV zal een beter begrip opleveren van je uitdagingen en kansen. | > **Example:** While profit, one way to measure investor happiness, will tell you the economic impact of the value that you deliver, knowing whether customers are happy with their purchase will tell you more about where you may need to improve to keep those customers. If your customers have few alternatives to your product, you may have high profit even though customer satisfaction is low. Considering CV from several perspectives will give you a better understanding of your challenges and opportunities. | |
-| > klanttevredenheid en investeerderstevredenheid vertellen ook niet het hele verhaal over je geschiktheid om waarde te leveren. Door rekening houden met de houding en gemoedstoestand van medewerkers erkennen we dat medewerkers uiteindelijk degenen zijn die waarde leveren. Betrokken medewerkers die weten hoe ze het product kunnen onderhouden, continueren en verbeteren zijn een van de meest significante middelen van een organisatie, en tevreden medewerkers tonen hogere betrokkenheid en productiviteit. | > Customer happiness and investor happiness also do not tell the whole story about your ability to deliver value. Considering employee attitudes recognizes that employees are ultimately the producers of value. Engaged employees that know how to maintain, sustain and enhance the product are one of the most significant assets of an organization, and happy employees are more engaged and productive. ||
+| > Klanttevredenheid en investeerderstevredenheid vertellen ook niet het hele verhaal over je geschiktheid om waarde te leveren. Door rekening houden met de houding en gemoedstoestand van medewerkers erkennen we dat medewerkers uiteindelijk degenen zijn die waarde leveren. Betrokken medewerkers die weten hoe ze het product kunnen onderhouden, continueren en verbeteren zijn een van de meest significante middelen van een organisatie, en tevreden medewerkers tonen hogere betrokkenheid en productiviteit. | > Customer happiness and investor happiness also do not tell the whole story about your ability to deliver value. Considering employee attitudes recognizes that employees are ultimately the producers of value. Engaged employees that know how to maintain, sustain and enhance the product are one of the most significant assets of an organization, and happy employees are more engaged and productive. ||
 
 ## Unrealized Value (UV)
 **Nog niet gerealiseerde Waarde: Metingen die de potentiële toekomstige waarde kwantificeren die behaald kan worden wanneer de organisatie de behoeftes vervult van alle potentiële klanten of gebruikers**
@@ -176,56 +176,35 @@
 | # Eindnoot | # End Note | H1 |
 |Evidence Based-Management is gratis en wordt aangeboden in deze gids. Het implementeren van losse delen van EBM is mogelijk, maar het resultaat daarvan is niet Evidence Based Management. | Evidence-Based Management is free and offered in this Guide. Although implementing only parts of EBM is possible, the result is not Evidence-Based Management. ||
 
-# Erkenningen
+# Dankbetuigingen
 
 | Nederlands | English | opmerkingen |
 | - | - | - |
-| # Erkenningen | # Acknowledgements | H1 |
+| # Dankbetuigingen | # Acknowledgements | H1 |
 | Evidence-Based Management is gezamenlijk ontwikkeld door Scrum.org, de Professional Scrum Trainer-gemeenschap, Ken Schwaber en Christina Schwaber. | Evidence-Based Management was collaboratively developed by Scrum.org, the Professional Scrum Trainer Community, Ken Schwaber and Christina Schwaber. ||
 
 ## Vertaling
 
-| Nederlands | English | opmerkingen |
+| Nederlands | English | Opmerkingen |
 | - | - | - |
 | ## Vertaling | ## Translator Acknowledgement | H2 |
-| Deze gids is een vertaling van de oorspronkelijke Engelse versie, die beschikbaar is gesteld door de ontwikkelaars die hierboven zijn vermeld. AHet initiatief en beheer van deze Nederlandse vertaling ligt bij Sjoerd Kranendonk voor Scrum Facilitators. De vertaalde gids bevat verder bijdragen van Chris Lukassen, Glaudia Califano en Dennis Mansell. | This guide has been translated from the original English version provided by the developers acknowledged above. Contributors to the translation include [First name] [Last name]. | vertalers toevoegen |
+| Deze gids is een vertaling van de oorspronkelijke Engelse versie, die beschikbaar is gesteld door de ontwikkelaars die hierboven zijn vermeld. Het initiatief en beheer van deze Nederlandse vertaling ligt bij Sjoerd Kranendonk voor Scrum Facilitators. De vertaalde gids bevat verder bijdragen van Chris Lukassen, Glaudia Califano en Dennis Mansell. | This guide has been translated from the original English version provided by the developers acknowledged above. Contributors to the translation include [First name] [Last name]. | vertalers toevoegen |
 |  || aanvullen met andere vertalers |
 | ### Contactgegevens | ### Contact Information | H3 |
-| Vertalers: Sjoerd Kranendonk & Chris Lukassen. | Translator Name(s) : | required |
+| Vertalers: Sjoerd Kranendonk, Chris Lukassen, Glaudia Califano & Dennis Mansell. | Translator Name(s) : | required |
 | Vertaalgroep: Scrum Facilitators Community | Translation Group Name : | optional |
-| Contact email: sjoerd@scrumfacilitators.nl | Primary Contact Email : | required |
-| Website: http://www.scrumfacilitators.nl | (optional) Website : | |
+| Contact email: sjoerd@scrumfacilitators.com | Primary Contact Email : | required |
+| Website: http://www.scrumfacilitators.com | (optional) Website : | |
 | Linkedin: https://www.linkedin.com/company/scrumfacilitators/ | (optional) LinkedIn : | |
 | | (optional) Twitter : (optional) Facebook :|  |
 | Feedback, suggesties & verbeteringen: https://github.com/ScrumFacilitators/EBM-Gids-NL/issues | | |
 
 # Overzicht van wijzigingen
-Dit is de eerste vertaling (versie 0.2), en er zijn dus nog geen wijzigingen ten opzichte van eerdere versies.
+
+| **Versie** | **Wijzigingen** |
+| - | - |
+| V1.0 | Volledige herziening op basis van de 2024 versie van de Engelse Evidence-Based Management Guide. Zie voor details en veranderingen ten opzichte van de vorige vertaling van de 2020 versie https://github.com/ScrumFacilitators/EBM-Gids-NL/issues |
 
 # Appendix
 
 *Zie bestand (EBM Gids 2020_1_KVMs.md) voor de appendix met voorbeeld-KVM's*
-
-
-## Making Progress Toward Goals in a Series of Small Steps ...
-| Nederlands | English | opmerkingen |
-| - | - | - |
-| ... | ##Making Progress Toward Goals in a Series of Small Steps | H2 - HEEL NIEUW HOOFDSTUK 2024 |
-| ... | The first step in the journey toward a Strategic Goal is understanding your Current State to frame your thinking about where and how you need to improve. For example, if your goal is to improve the satisfaction of your customers you will need to know what your customers experience today and what they would like to experience in the future. You will probably also need to understand your own capability for delivering value, i.e. how fast you are able to make improvements in the value that your customers will experience, so that you can set realistic short and medium term goals.  | HEEL NIEUW HOOFDSTUK 2024 |
-| ... | The Experiment Loop (shown in Figure 1) helps organizations move from their Current State toward their Immediate Tactical Goal, their Intermediate Goal, and ultimately their Strategic Goal, by taking small, measured steps, called experiments, using explicit hypotheses.<sup>3</sup> This loop consists of: ||
-| ... | - **Forming a hypothesis for improvement.** Based on experience, form an idea of something you think will help you move toward your Immediate Tactical Goal, and decide how you will know whether this experiment succeeded based on measurement.  ||
-| ... | - **Running your experiments.** Make the change you think will help you to improve, and gather data to support or refute your hypothesis.  ||
-| ... | - **Inspecting your results.** Did the change you made improve your results based on the measurements you have made? Not all changes do; some changes actually make things worse.   ||
-| ... | - **Adapting your goals or your approach based on what you learned.** Both your goals and your improvement experiments will likely evolve as you learn more about customers, competitors, and your organization's capabilities. Goals can change because of outside events, and your tactics to reach your goals may need to be reconsidered and revised, for example: ||
-| - ... <br> - ... <br> - ... <br> - ... | - Was the Immediate Tactical Goal the right goal? <br> - Are the Intermediate and Strategic Goals still relevant or do they need to be adapted? <br> - If you failed to achieve the Immediate Tactical Goal but you think it is still important to achieve, how might you do better next time? <br> - If you achieved your Intermediate or Strategic Goals you will need to formulate new goals. ||
-| ... | <sup>3</sup> The Experiment Loop is a variation on the Shewhart Cycle, popularized by W. Edwards Deming, also sometimes called the PDCA (Plan-Do-Check-Act) cycle; see https://en.wikipedia.org/wiki/PDCA. ||
-
-## Hypotheses, Experiments, Features, and Requirements ...
-| Nederlands | English | opmerkingen |
-| - | - | - |
-| ... | ## Hypotheses, Experiments, Features, and Requirements | H2 - HEEL NIEUW HOOFDSTUK 2024 |
-| ... | Organizations can spend a lot of money implementing features (distinguishing characteristics) and other requirements in products,<sup>4</sup> only to find that customers don’t share the company’s opinion on their value; beliefs in what is valuable are merely assumptions until they are validated by customers. This is where hypotheses and experiments are useful. ||
-| ... | A hypothesis is a belief that doing something will lead to something else, such as delivering feature X will lead to outcome Y. An experiment is a test that is designed to prove or reject some hypothesis. ||
-| ... | Every feature and every requirement really represents a hypothesis about value. One of the goals of an empirical approach is to make these hypotheses explicit and to consciously design experiments that explicitly test the value of the features and requirements. The entire feature or requirement need not actually be built to determine whether it is valuable; it may be sufficient for a team to simply build enough of it to validate critical assumptions that would prove or disprove its value. ||
-| ... | Explicitly forming hypotheses, measuring results, and inspecting and adapting goals based on those results are implicit parts of an agile approach. Making this work explicit and transparent is what EBM adds to the organizational improvement process.||
-| ... | <sup>4</sup> Adapted from the IEEE 829 specification ||
