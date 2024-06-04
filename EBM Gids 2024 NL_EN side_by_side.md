@@ -19,7 +19,7 @@
 | ... | - A Vision Statement, an expression of the change that the organization wants to make in the world. ||
 | ... | - A Mission Statement, an expression of why the organization is uniquely capable of achieving the Vision Statement. ||
 | ... | - Goals, on several different levels and timescales, that help the organization achieve its Mission and Vision.  | |
-| Organisaties stellen doelen zodat ze concrete vooruitgang kunnen maken ten opzichte van het bereiken van hun Missie en Visie. Zonder doelen zijn de Missie en Visie gewoonweg nobele aspiraties...   | Organizations form goals to make concrete progress toward achieving their Mission and Vision. Without goals, the Mission and Vision are simply lofty aspirations. Furthermore, without effective Mission and Vision statements goals lack a compelling purpose, especially for those working under conditions of uncertainty. | |
+| Organisaties stellen doelen zodat ze concrete vooruitgang kunnen maken ten opzichte van het bereiken van hun Missie en Visie. Zonder doelen zijn de Missie en Visie gewoonweg nobele aspiraties...   | Organizations form goals to make concrete progress toward achieving their Mission and Vision. Without goals, the Mission and Vision are simply lofty aspirations. Furthermore, without effective Mission and Vision statements goals lack a compelling purpose, especially for those working under conditions of uncertainty. | 04/06 GC: de laatste zin heeft het woord 'goal' en 'purpose'. Wat in het NL beiden als 'doel' wordt vertaald. Kijken of er een alternatief is of dat we zin wat meer vrij kunen vertalen|
 | Deze gids definieert EBM en haar concepten. | This Guide defines EBM and its concepts. | 2024 vertaling ~SK |
 | © 2024 Scrum.org| © 2024 Scrum.org | |
 
