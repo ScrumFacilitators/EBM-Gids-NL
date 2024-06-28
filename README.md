@@ -1,7 +1,5 @@
 # Evidence-Based Management gids - Nederlands
-De Nederlandse vertaling van de Evidence-Based Management Guide (September 2020), oorspronkelijk [gepubliceerd door Scrum.org](https://www.scrum.org/resources/evidence-based-management-guide).
-
-*NB op dit moment wordt gewerkt aan de vertaling van de bijgewerkte gids uit 2024. De huidige release is nog de oude versie. Gebruik voorlopig de engelse versie via de link hierboven voor de meest recente inzichten!*
+De Nederlandse vertaling van de Evidence-Based Management Guide (2024), oorspronkelijk [gepubliceerd door Scrum.org](https://www.scrum.org/resources/evidence-based-management-guide).
 
 Met dit project ontwikkelen en onderhouden we de Evidence-Based Management gids in het Nederlands. Evidence-based Management (EBM) is een raamwerk om als organisatie op empirische wijze doelen na te streven met een product of dienst.
 
