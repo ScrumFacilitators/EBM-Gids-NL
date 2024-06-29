@@ -28,8 +28,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.68111408"
-     inkscape:cx="378.79117"
-     inkscape:cy="313.45703"
+     inkscape:cx="359.70479"
+     inkscape:cy="78.547782"
      inkscape:window-width="1333"
      inkscape:window-height="943"
      inkscape:window-x="0"
@@ -5217,9 +5217,9 @@
      transform="rotate(-90,36.993791,354.96728)"><tspan
        x="60.528606"
        y="378.49799"
-       id="tspan26639"><tspan
+       id="tspan4312"><tspan
          style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold';text-align:end;text-anchor:end"
-         id="tspan26637">Geleverde Waarde</tspan></tspan></text>
+         id="tspan4310">Geleverde Waarde</tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;font-family:sans-serif;fill:#84a747;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -5257,7 +5257,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#84a747;fill-opacity:1;stroke-width:0.75"
        x="204.23459"
        y="645.18097"
-       id="tspan5942-9-6">Beginstoestand</tspan></text>
+       id="tspan5942-9-6">Begintoestand</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;font-family:sans-serif;fill:#84a747;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -5411,7 +5411,7 @@
        style="font-size:11px;stroke-width:0.75"
        x="108.79878"
        y="346.23572"
-       id="tspan19431">Aanpassen?</tspan></text>
+       id="tspan19431">aanpassen?</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:11px;line-height:1.25;font-family:sans-serif;stroke-width:0.75"
